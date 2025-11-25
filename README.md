@@ -19,12 +19,13 @@ As an active **Community Leader**, I organize major tech conferences in Latin Am
 I actively speak at international conferences, JUGs, and meetups, covering Java, Refactoring, AI, and Career Growth.
 
 ### International & Keynotes (2025)
-| Date | Event | Talk / Session |
-| :--- | :--- | :--- |
-| **Oct 18** | Houston JUG (USA) | [Refactor Today: Build Faster Tomorrow](https://www.eventbrite.com/e/bruno-souza-and-his-amigos-help-you-to-enhance-your-java-career-tickets-1782090844689)  |
-| **Oct 16** | Chicago JUG (USA) | [Refactor Today: Build Faster Tomorrow](https://www.youtube.com/live/DJf6hbOtlaw?si=IjPayoS_b6CDg3Un&t=5500)  |
-| **Oct 13** | Orlando JUG (USA) | [3 Actions to Get Visible & Build a Long-Term Career](https://www.youtube.com/live/akbGXiAeV_A?si=dCOhrF1pT5GQUwfp&t=1778)  |
-| **Mar 26** | TDC Summit Sao Paulo | [Specialize Open-Source Models with LoRA (AI)](https://thedevconf.com/tdc/2025/summit-sao-paulo/programacao)  |
+| Date       | Event                  | Talk / Session |
+|:-----------|:-----------------------| :--- |
+| **Oct 18** | Houston JUG (USA)      | [Refactor Today: Build Faster Tomorrow](https://www.eventbrite.com/e/bruno-souza-and-his-amigos-help-you-to-enhance-your-java-career-tickets-1782090844689)  |
+| **Oct 16** | Chicago JUG (USA)      | [Refactor Today: Build Faster Tomorrow](https://www.youtube.com/live/DJf6hbOtlaw?si=IjPayoS_b6CDg3Un&t=5500)  |
+| **Oct 13** | Orlando JUG (USA)      | [3 Actions to Get Visible & Build a Long-Term Career](https://www.youtube.com/live/akbGXiAeV_A?si=dCOhrF1pT5GQUwfp&t=1778)  |
+| **Jun 19** | SouJava (Live)         | [Java: 30 Years of Innovation](https://www.youtube.com/watch?v=FOlMVT1QiD0&t=835s)  |
+| **Mar 26** | TDC Summit (Sao Paulo) | [Specialize Open-Source Models with LoRA (AI)](https://thedevconf.com/tdc/2025/summit-sao-paulo/programacao)  |
 
 ---
 
@@ -43,58 +44,67 @@ I don't just attend events; I help build them. I am deeply involved in fostering
 
 Below is a comprehensive list of my contributions to the tech community, including talks, event organization, podcasts, and mentorship.
 
-### Conference Talks & Meetup Presentations
+### Conference Talks, Panels & Meetup Presentations
 
 #### 2025
-* **Nov 19 - SouJava:** [About SouJava Community](https://www.youtube.com/live/eRPjJiKtFdo?si=fdgMash7qDWo1C_B&t=3402)
+* **Nov 28 - SouJava SP at Anhembi Morumbi:** [Build your career as a developer with visibility in the Java community](https://www.sympla.com.br/evento/evento-amojava-sou-java/3229601)
+* **Nov 19 - SouJava SP at Oracle** [About SouJava Community](https://www.youtube.com/live/eRPjJiKtFdo?si=fdgMash7qDWo1C_B&t=3402)
 * **Oct 18 - Houston JUG:** [Refactor Today: Build Faster Tomorrow](https://www.eventbrite.com/e/bruno-souza-and-his-amigos-help-you-to-enhance-your-java-career-tickets-1782090844689)
-* **Oct 16 - Chicago JUG:** [Refactor Today: Build Faster Tomorrow](https://www.youtube.com/live/DJf6hbOtlaw?si=IjPayoS_b6CDg3Un&t=5500)
+* **Oct 16 - Chicago JUG at Discover:** [Refactor Today: Build Faster Tomorrow](https://www.youtube.com/live/DJf6hbOtlaw?si=IjPayoS_b6CDg3Un&t=5500)
 * **Oct 13 - Orlando JUG:** [3 actions you should take to get visible](https://www.youtube.com/live/akbGXiAeV_A?si=dCOhrF1pT5GQUwfp&t=1778)
-* **Sep 11 - FIAP + Alura:** [Java in the AI Era (Panel)](https://www.sympla.com.br/evento/meetup-de-comunidade-java-na-era-da-ia/3100870)
-* **Sep 07 - DebugTech:** [Refactoring & Clean Code](https://www.youtube.com/watch?v=lTLpO8uceLc)
+* **Oct 01 - JUG Joinville (live):** [Java 25 New Features (Panel)](https://meetn.com/Event?ID=b4a7d707e7)
+* **Sep 11 - FIAP + Alura Community Meetup:** [Java in the AI Era (Panel)](https://www.sympla.com.br/evento/meetup-de-comunidade-java-na-era-da-ia/3100870)
+* **Sep 07 - DebugTech (live):** [Refactoring & Clean Code](https://www.youtube.com/watch?v=lTLpO8uceLc)
 * **Aug 30 - JavaDay Noroeste:** [Refactoring for the Future](https://javaday.javanoroeste.com.br/#palestras)
-* **Jul 09 - Quarkus Club:** [Java: 30 Years Shaping the Future](https://www.youtube.com/watch?v=Ks5T6TtaCuk)
-* **Jun 24 - UaiJUG:** [Java: 30 Years Shaping the Future](https://www.youtube.com/watch?v=_x2lleUWGqo)
-* **Jun 19 - SouJava:** [Java: 30 Years of Innovation](https://www.youtube.com/watch?v=FOlMVT1QiD0&t=835s)
-* **May 17 - Quarkus Club (Oracle):** [A Week of Quarkus](https://apex.oracle.com/pls/apex/r/els/evento/agenda?session=108239042315735)
-* **May 08 - Java Meetup SP:** [Refactoring in Java](https://www.meetup.com/sao-paulo-java-meetup/events/307355028)
-* **May 07 - Quarkus Club:** [Myths and Truths about Refactoring](https://www.youtube.com/watch?v=693MkH5e-vo)
-* **Apr 26 - DevConverge LATAM (Rio):** [Refactoring for the Future](https://www.youtube.com/live/RbfQwZfob3Q?si=q_94Byyob2XtFKHZ&t=3614)
-* **Apr 23 - JavaDay After One:** [Refactoring for the Future](https://www.youtube.com/live/5qyrdeRUKhE?si=4-umnIqND6C6DC1z&t=5040)
-* **Mar 26 - TDC Summit SP:** [Specialize Open-Source Models with LoRA](https://thedevconf.com/tdc/2025/summit-sao-paulo/programacao)
-* **Mar 22 - Brasil JUG:** [Mentorship: Refactoring in Java](https://www.youtube.com/watch?v=fiorSlFT2KU)
-* **Feb 26 - SouJava (Bosch):** [Refactoring in Java](https://www.youtube.com/live/IZtwEJMvuhE?si=RDM18Ztxsk-Pnw1S&t=75)
-* **Feb 11 - Guest on Lucas Levandoski's Podcast:** [Balancing Professor Life & Java Dev](https://www.youtube.com/watch?v=LEexN9u3rts)
-* **Feb 01 - SouJava (Oracle):** [Refactoring in Java](https://www.linkedin.com/posts/soujava-brasilia_luiz-real-nos-iluminando-sobre-refatora%C3%A7%C3%A3o-activity-7291541056767094784-cfX3)
+* **Jul 09 - Quarkus Club (live):** [Java: 30 Years Shaping the Future](https://www.youtube.com/watch?v=Ks5T6TtaCuk)
+* **Jun 24 - UaiJUG (live):** [Java: 30 Years Shaping the Future](https://www.youtube.com/watch?v=_x2lleUWGqo)
+* **Jun 19 - SouJava (live):** [Java: 30 Years of Innovation](https://www.youtube.com/watch?v=FOlMVT1QiD0&t=835s)
+* **May 17 - Quarkus Club at Oracle:** [A Week of Quarkus](https://apex.oracle.com/pls/apex/r/els/evento/agenda?session=108239042315735)
+* **May 08 - Java Meetup SP at Sigma Software:** [Refactoring in Java](https://www.meetup.com/sao-paulo-java-meetup/events/307355028)
+* **May 07 - Quarkus Club (live):** [Myths and Truths about Refactoring feat. Professor Isidro](https://www.youtube.com/watch?v=693MkH5e-vo)
+* **Apr 26 - DevConverge LATAM at FIAP Rio:** [Refactoring for the Future](https://www.youtube.com/live/RbfQwZfob3Q?si=q_94Byyob2XtFKHZ&t=3614)
+* **Apr 23 - JavaDay After One at Oracle:** [What the Leading Voices in the Java Community Think About the Future? (Panel)](https://www.youtube.com/live/5qyrdeRUKhE?si=NQaE5GV1fLHKSikE&t=27641)
+* **Apr 23 - JavaDay After One at Oracle:** [Refactoring for the Future](https://www.youtube.com/live/5qyrdeRUKhE?si=4-umnIqND6C6DC1z&t=5040)
+* **Mar 26 - TDC Summit São Paulo:** [Specialize Open-Source Models with LoRA feat. Yugo Sakamoto](https://thedevconf.com/tdc/2025/summit-sao-paulo/programacao)
+* **Mar 22 - Brasil JUG (live):** [Refactoring in Java](https://www.youtube.com/watch?v=fiorSlFT2KU)
+* **Feb 26 - SouJava Campinas at Bosch:** [Refactoring in Java: Transform your code to become an advanced dev](https://www.youtube.com/live/IZtwEJMvuhE?si=RDM18Ztxsk-Pnw1S&t=75)
+* **Feb 20 - DevConverge LATAM at act digital:** [The Developer's Strategic Role in Modern Banking Innovation (Panel)](https://www.linkedin.com/posts/act-digital_devconverge-latam-activity-7298786821658861568-vEe4/)
+* **Feb 01 - SouJava Brasília at Oracle:** [Refactoring in Java: Transform your code to reach a new level and become an advanced dev](https://www.linkedin.com/posts/soujava-brasilia_luiz-real-nos-iluminando-sobre-refatora%C3%A7%C3%A3o-activity-7291541056767094784-cfX3)
 
 #### 2024 & 2023
-* **Oct 25, 2024 - Unesp:** [Git Best Practices](https://www2.unesp.br/portal#!/infounesp/eventos-anteriores/18-infounesp/programacao/)
-* **Nov 30, 2023 - Unesp:** [Refactoring: Turning chaos into clarity](https://www2.unesp.br/portal#!/infounesp/eventos-anteriores/17-infounesp---2023/programacao/)
+* **Oct 25, 2024 - INFOUNESP - UNESP Informatics Meeting:** [Git Best Practices](https://www.youtube.com/live/XMJd2mhL4aI?si=DDzb17GPWPyh02rA&t=635)
+* **Sep 18, 2024 - TDC São Paulo:** [APIs of the future (Panel)](https://thedevconf.com/tdc/2024/sao-paulo/trilha-api)
+* **Nov 30, 2023 - INFOUNESP - UNESP Informatics Meeting:** [Refactoring: Turning chaos into clarity](https://www.youtube.com/watch?v=whNdTaRa704)
 
 ### Event Organization & Coordination
 
 #### SouJava JUG (Coordinator & Host)
-* **November 19, 2025:** [SouJava JUG Meeting](https://www.youtube.com/watch?v=eRPjJiKtFdo)
-* **November 01, 2025:** [Meeting at Bradesco](https://www.youtube.com/watch?v=xK-AUqkUPuM)
-* **September 24, 2025:** [Meeting w/ Elder Moraes & Bruno Souza](https://www.meetup.com/soujava/events/311166205/)
-* **August 20, 2025:** [Meeting at Oracle](https://www.meetup.com/soujava/events/310531311/)
-* **July 23, 2025:** [Meeting at Oracle](https://www.meetup.com/soujava/events/309224521/)
-* **June 16, 2025:** [Meeting w/ Juarez Junior](https://www.meetup.com/soujava/events/308351667/)
-* **May 21, 2025:** [Meeting at Oracle](https://www.meetup.com/soujava/events/307755108/)
-* **March 19, 2025:** [Meeting at Oracle](https://www.meetup.com/soujava/events/306709951/) [cite: 94, 95]
-* **February 25, 2025:** [Carnaval do SouJava](https://www.meetup.com/soujava/events/306280789/)
-* **January 22, 2025:** [Ano Novo do SouJava](https://www.meetup.com/soujava/events/305562452/)
-* **December 18, 2024:** [Natal do SouJava](https://www.meetup.com/soujava/events/304890440/)
+* **November 28, 2025:** [Meeting at Anhembi Morumbi w/ Professor Isidro and Luiz Real)](https://www.sympla.com.br/evento/evento-amojava-sou-java/3229601)
+* **November 19, 2025:** [Meeting at Oracle w/ Professor Isidro, Luiz Real, Gabriel Giampietro, and Maria Cecília Bezerra](https://www.youtube.com/watch?v=eRPjJiKtFdo)
+* **November 01, 2025:** [Meeting at Bradesco w/ Bruno Souza, Maximiliam Arruda, and Yugo Sakamoto](https://www.youtube.com/watch?v=xK-AUqkUPuM)
+* **October 15, 2025:** [Meeting at Oracle w/ Pedro Carrijo and Gleice Ellen](https://www.youtube.com/watch?v=x6umCwAmDhM)
+* **October 13, 2025:** [Orlando JUG Meeting w/ Bruno Souza, Thiago Gonzaga, Luiz Real, and Loiane Groner (Streamed to SouJava)](https://www.youtube.com/watch?v=akbGXiAeV_A)
+* **October 02, 2025:** [International Meeting at Oracle w/ Bruno Souza, Frederic Descamps, and Víctor Orozco](https://www.youtube.com/watch?v=HyCLLRcmV_Y)
+* **September 24, 2025:** [Meeting at Oracle w/ Nancy Lyra, Bruno Souza, and Elder Moraes](https://www.youtube.com/watch?v=Ge9uHcgyXAo)
+* **August 20, 2025:** [Meeting at Oracle w/ Fernanda Kipper, Bruno Souza, and Professor Isidro](https://www.youtube.com/watch?v=bk-vv8W3KIs)
+* **July 23, 2025:** [Meeting at Oracle w/ Kamila Santos, Bruno Souza, and Rafael Issao](https://www.youtube.com/watch?v=FccZKLPmxTU)
+* **June 16, 2025:** [Meeting at Oracle w/ Juarez Junior, Yugo Sakamoto, and Leonardo Ribas](https://www.youtube.com/watch?v=iP1FIKDcVeg)
+* **May 21, 2025:** [Meeting at Oracle w/ Arthur Fücher and Maximiliam Arruda](https://www.youtube.com/watch?v=Eul2wjvousY)
+* **April 23, 2025:** [Java Day: After One at Oracle](https://www.youtube.com/watch?v=5qyrdeRUKhE)
+* **March 19, 2025:** [Meeting at Oracle w/ Léo Gasparini, Matheus Oliveira, Wheslley Rimar, Bruno Souza, Heather VanCura (plus a 4-Women Tech Career Panel)](https://www.youtube.com/watch?v=_4gnHAeJ1PU)
+* **February 25, 2025:** [Meeting at Oracle w/ Professor Isidro, Bruno Souza, Sérgio Lopes, and Maximiliam Arruda](https://www.youtube.com/watch?v=f9to-i0U4rg)
+* **January 22, 2025:** [Meeting at Oracle w/ Alexandre Aquiles, Bruno Souza, and Professor Isidro](https://www.youtube.com/watch?v=i0D6DLlduEY)
+* **December 18, 2024:** [Meeting at Oracle w/ Danilo de Luca, Professor Isidro, Bruno Souza, Elder Moraes, and Pedro Carrijo](https://www.youtube.com/watch?v=a-Z3K8CwyGM)
 * **October 16, 2024:** [Celebrando 25 anos de JCP](https://www.meetup.com/soujava/events/303924532/)
-* **September 24, 2024:** [Meetup SouJava & Temporal.io](https://www.meetup.com/soujava/events/303414016/)
+* **September 24, 2024:** [Meeting at Oracle w/ Temporal.io](https://www.youtube.com/watch?v=liBuz-VpCWY)
 
 #### DevConverge LATAM/EUROPE (Organizer/Host)
-* **December, 2025:** [São Paulo (Link School of Business) - Co-Organizer](https://www.sympla.com.br/evento/devconverge-latam-sprint-sao-paulo-na-link/3200602)
-* **October, 2025:** [Madrid (Oracle) - Co-Organizer](https://www.devconvergeeurope.com/)
-* **August, 2025:** [São Paulo (Oracle) - Co-Organizer](https://www.sympla.com.br/evento/devconverge-latam-sprint-sp/3026669)
-* **April, 2025:** [Rio de Janeiro (FIAP) - Host](https://www.youtube.com/watch?v=RbfQwZfob3Q)
-* **March, 2025:** [Alphaville (Act Digital) - Host & Panelist](https://www.linkedin.com/posts/act-digital_devconverge-latam-activity-7298786821658861568-vEe4/)
-* **September, 2024:** [São Paulo (FIAP) - Co-Organizer](https://sites.google.com/view/devconvergelatam/edicoes-passadas/fiap-sp-25-09-25?authuser=0)
+* **December, 2025:** [Sprint São Paulo at Link School of Business (Host & Co-Organizer)](https://www.sympla.com.br/evento/devconverge-latam-sprint-sao-paulo-na-link/3200602)
+* **October, 2025:** [Sprint Madrid at Oracle (Co-Organizer & Online Support)](https://www.devconvergeeurope.com/)
+* **August, 2025:** [Sprint São Paulo at Oracle (Host & Co-Organizer)](https://www.youtube.com/watch?v=JHJ8wNOMHq0)
+* **April, 2025:** [Sprint Rio at FIAP (Host & Speaker)](https://www.youtube.com/watch?v=RbfQwZfob3Q)
+* **March, 2025:** [Sprint Alphaville at act digital (Host & Panelist)](https://www.linkedin.com/posts/act-digital_devconverge-latam-activity-7298786821658861568-vEe4/)
+* **September, 2024:** [Sprint São Paulo at FIAP (Host & Co-Organizer)](https://www.youtube.com/watch?v=oCp6IbYlOl0)
 
 #### The Developer's Conference (Mentorship Hub Coordinator)
 * **2025:** [TDC Experience Porto Alegre](https://promo.thedevconf.com/tdc-experience-porto-alegre-2025) , [TDC São Paulo](https://thedevconf.com/tdc/2025/sao-paulo/hub-mentorias) , [TDC Summit São Paulo](https://thedevconf.com/tdc/2025/summit-sao-paulo/hub-mentorias)
@@ -103,46 +113,53 @@ Below is a comprehensive list of my contributions to the tech community, includi
 ### Content Creation: Podcast & Video
 
 #### Host: Out of the Box Developer Podcast (2025)
-* **September 23, 2025:** [Concurrency & Performance feat. **Dr. Heinz Kabutz**](https://www.youtube.com/watch?v=BkjKfCBovgE)
-* **September 09, 2025:** [Building User Communities feat. **Mary Grygleski**](https://www.youtube.com/watch?v=yhbH40PGvGU)
-* **August 26, 2025:** [Becoming a Technical Reference feat. **Pedro Carrijo**](https://www.youtube.com/watch?v=DPZfyI559G4)
-* **August 12, 2025:** [10 Ways to Contribute to Open Source](https://www.youtube.com/watch?v=uKeOjExWRq8)
+* **September 23, 2025:** [Concurrency & Performance w/ Dr. Heinz Kabutz](https://www.youtube.com/watch?v=BkjKfCBovgE)
+* **September 09, 2025:** [Building User Communities w/ Mary Grygleski](https://www.youtube.com/watch?v=yhbH40PGvGU)
+* **August 26, 2025:** [Becoming a Technical Reference w/ Pedro Carrijo](https://www.youtube.com/watch?v=DPZfyI559G4)
+* **August 12, 2025:** [10 Ways to Contribute to Open Source w/ Andrés Alcarraz](https://www.youtube.com/watch?v=uKeOjExWRq8)
 * **July 15, 2025:** [REST API Red Flags](https://www.youtube.com/watch?v=nC0c8HpSMys)
-* **July 01, 2025:** [Unlock Career with Open Source](https://www.youtube.com/watch?v=nHtuKC3CV6M)
+* **July 01, 2025:** [Unlock Career with Open Source w/ Helber Belmiro and Matheus Cruz](https://www.youtube.com/watch?v=nHtuKC3CV6M)
 * **June 17, 2025:** [Java Turns 30](https://www.youtube.com/watch?v=NNlDw7bbDU8&t=1921s)
-* **June 03, 2025:** [The Deliberate Reputation Formula](https://www.youtube.com/watch?v=TozBPXOsR7g&t=3312s)
+* **June 03, 2025:** [The Deliberate Reputation Formula w/ Bruno Souza](https://www.youtube.com/watch?v=TozBPXOsR7g&t=3312s)
 * **May 20, 2025:** [Vibe Coding for Enterprise (AI)](https://www.youtube.com/watch?v=M6paoV_HDwM)
-* **May 06, 2025:** [Beyond Certification](https://www.youtube.com/watch?v=X63zz5F-sBI&t=2691s)
-* **April 24, 2025:** [How to Scale an Engineering Organization](https://www.youtube.com/watch?v=SEbRYqIOqJc)
+* **May 06, 2025:** [Beyond Certification w/ Ronaldo Tavares](https://www.youtube.com/watch?v=X63zz5F-sBI&t=2691s)
+* **April 24, 2025:** [How to Scale an Engineering Organization w/ Thiago Ghisi](https://www.youtube.com/watch?v=SEbRYqIOqJc)
 * **April 08, 2025:** [Interview Coding Challenges](https://www.youtube.com/watch?v=tyWgwCiBKIU)
-* **March 25, 2025:** [Java's Role in Modern Data Engineering](https://www.youtube.com/watch?v=kfQx5mClFqY)
+* **March 25, 2025:** [Java's Role in Modern Data Engineering w/ Igor de Souza](https://www.youtube.com/watch?v=kfQx5mClFqY)
 * **February 25, 2025:** [How to become an AI augmented developer?](https://www.youtube.com/watch?v=QrcgpHdB6-M)
 * **February 11, 2025:** [Struggling with Messy Code?](https://www.youtube.com/watch?v=IlsMoMVerQY)
-* **January 28, 2025:** [Level Up Your Career](https://www.youtube.com/watch?v=BzhAeflVt0A&t=10s)
+* **January 28, 2025:** [Level Up Your Career w/ Elder Moraes](https://www.youtube.com/watch?v=BzhAeflVt0A&t=10s)
 * **January 14, 2025:** [From TODO to DONE](https://www.youtube.com/watch?v=zwGYLFxgAlU)
 
 #### Host: Out of the Box Developer Podcast (2024)
 * **December 10, 2024:** [Was 2024 YOUR Out of the Box Year?](https://www.youtube.com/watch?v=QPfO-lroefk)
-* **November 26, 2024:** [Forget Coding Challenges, Run a Marathon!](https://www.youtube.com/watch?v=J2UeVQjtYes)
-* **November 13, 2024:** [What every developer needs to solve Complex Problems?](https://www.youtube.com/watch?v=5-4F1kBuW_M)
+* **November 26, 2024:** [Forget Coding Challenges, Run a Marathon! w/ João Areias](https://www.youtube.com/watch?v=J2UeVQjtYes)
+* **November 13, 2024:** [What does every developer need to solve Complex Problems? w/ Professor Isidro](https://www.youtube.com/watch?v=5-4F1kBuW_M)
 * **November 12, 2024:** [OpenAPI & Java](https://www.youtube.com/watch?v=i6Wy_kcN5RU)
-* **October 29, 2024:** [Winning your Developer Job Interviews](https://www.youtube.com/watch?v=ZvRJTrWSIkk)
-* **October 15, 2024:** [Start your International Dev Career!](https://www.youtube.com/watch?v=zYVos3_oQVk)
+* **October 29, 2024:** [Winning your Developer Job Interviews w/ Julio Faerman](https://www.youtube.com/watch?v=ZvRJTrWSIkk)
+* **October 15, 2024:** [Start your International Dev Career! w/ Bruno Souza](https://www.youtube.com/watch?v=zYVos3_oQVk)
 * **October 01, 2024:** [Biggest challenges when learning programming](https://www.youtube.com/watch?v=r2vfISY47ps)
 
 #### Other Interviews & Hosting
 * **Luiz Real Channel:** [Asking a Java Champion (w/ Rafael Del Nero)](https://www.youtube.com/watch?v=z2p7SKRIzoM)
-* **Luiz Real Channel:** [Dev Talks (w/ Ronaldo Tavares)](https://www.youtube.com/watch?v=igyAi0WJ_5M)
-* **SouJava Channel:** [Interview with Prof. Isidro](https://www.youtube.com/watch?v=pRa_-6szxco)
-* **SouJava Channel:** [Interview with Jorge Kazuo](https://www.youtube.com/watch?v=YN0Pw3ty07M&)
+* **Luiz Real Channel:** [Dev Talks: Is Java 21 Certification Worth It? (w/ Ronaldo Tavares)](https://www.youtube.com/watch?v=igyAi0WJ_5M)
+* **Luiz Real Channel:** [Dev Talks: Preparing for Tech Interviews (w/ Leandro Leite)](https://www.youtube.com/watch?v=AQQ0FmaRvYs)
+* **SouJava Channel:** [Quarkus Club + SouJava: 10 Fatal Mistakes in REST APIs (w/ Rafael Benevides)](https://www.youtube.com/watch?v=mwMwGsHBfF0)
+* **SouJava Channel:** [How to Start Creating Your Own Content (w/ Yugo Sakamoto, João Areias, and Giulia Bordignon)](https://www.youtube.com/watch?v=sWGce1FyrnM)
+* **SouJava Channel:** [Interview with Professor Isidro](https://www.youtube.com/watch?v=pRa_-6szxco)
+* **SouJava Channel:** [Interview with Jorge Kazuo](https://www.youtube.com/watch?v=YN0Pw3ty07M)
+* **SouJava Channel:** [Interview with a Family of Java Developers](https://www.youtube.com/watch?v=IF2kJQy-_zc)
+* **SouJava Channel:** [The Most Common Questions About Generative AI (w/ Yugo Sakamoto)](https://www.youtube.com/watch?v=puSeubwMVS0)
+* **Out of the Box Developer Channel:** [Best of TheDevConf SP 2024](https://www.youtube.com/watch?v=6P4wT16yH1Q)
+* **Lucas Levandoski's Podcast:** [Balancing Professor Life & Java Dev](https://www.youtube.com/watch?v=LEexN9u3rts)
 
 ### Mentorship & Open Source
 
 #### Mentorship Sessions
-* **TDC 2025 (Porto Alegre):** [Build your career as a developer with visibility](https://promo.thedevconf.com/tdc-experience-porto-alegre-2025)
-* **TDC 2025 (São Paulo):** [Transform Knowledge into Technical Growth](https://thedevconf.com/tdc/2025/sao-paulo/hub-mentorias)
-* **TDC 2025 (Summit SP):** [How to Grow Technically by Helping Others](https://thedevconf.com/tdc/2025/summit-sao-paulo/hub-mentorias)
-* **TDC 2024 (Porto Alegre):** [How to Grow Technically by Helping Others](https://thedevconf.com/tdc/2024/summit-porto-alegre/hub-mentorias)
+* **TDC 2025 (Porto Alegre):** [Build your career as a developer with visibility in the community](https://promo.thedevconf.com/tdc-experience-porto-alegre-2025)
+* **TDC 2025 (São Paulo):** [How to Transform Knowledge and Relationships into Technical Growth and Professional Visibility](https://thedevconf.com/tdc/2025/sao-paulo/hub-mentorias)
+* **TDC 2025 (Summit SP):** [How to Grow Technically by Helping Others and Building Relationships](https://thedevconf.com/tdc/2025/summit-sao-paulo/hub-mentorias)
+* **TDC 2024 (Porto Alegre):** [How to Grow Technically by Helping Others and Building Relationships](https://thedevconf.com/tdc/2024/summit-porto-alegre/hub-mentorias)
 * **FIAP:** Mentoring students every semester for final corporate pitches
 * **International Program:** Mentoring professional developers on career advice
 
@@ -165,14 +182,6 @@ I practice what I preach. My technical foundation is solid in the Java ecosystem
 * **Focus Areas:** Refactoring, Clean Code, REST APIs, AI Integration
 
 ---
-
-[//]: # (## Github Stats)
-
-[//]: # ()
-[//]: # (![lgsreal's Stats]&#40;https://github-readme-stats.vercel.app/api?username=lgsreal&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&#41;)
-
-[//]: # ()
-[//]: # (---)
 
 ## Get in Touch
 
