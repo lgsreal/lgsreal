@@ -46,35 +46,32 @@ Below is a comprehensive list of my contributions to the tech community, includi
 
 ### Conference Talks, Panels & Meetup Presentations
 
-#### 2025
-* **Nov 28 - SouJava SP at Anhembi Morumbi:** [Build your career as a developer with visibility in the Java community](https://www.sympla.com.br/evento/evento-amojava-sou-java/3229601)
-* **Nov 19 - SouJava SP at Oracle** [About SouJava Community](https://www.youtube.com/live/eRPjJiKtFdo?si=fdgMash7qDWo1C_B&t=3402)
-* **Oct 18 - Houston JUG:** [Refactor Today: Build Faster Tomorrow](https://www.eventbrite.com/e/bruno-souza-and-his-amigos-help-you-to-enhance-your-java-career-tickets-1782090844689)
-* **Oct 16 - Chicago JUG at Discover:** [Refactor Today: Build Faster Tomorrow](https://www.youtube.com/live/DJf6hbOtlaw?si=IjPayoS_b6CDg3Un&t=5500)
-* **Oct 13 - Orlando JUG:** [3 actions you should take to get visible](https://www.youtube.com/live/akbGXiAeV_A?si=dCOhrF1pT5GQUwfp&t=1778)
-* **Oct 01 - JUG Joinville (live):** [Java 25 New Features (Panel)](https://meetn.com/Event?ID=b4a7d707e7)
-* **Sep 11 - FIAP + Alura Community Meetup:** [Java in the AI Era (Panel)](https://www.sympla.com.br/evento/meetup-de-comunidade-java-na-era-da-ia/3100870)
-* **Sep 07 - DebugTech (live):** [Refactoring & Clean Code](https://www.youtube.com/watch?v=lTLpO8uceLc)
-* **Aug 30 - JavaDay Noroeste:** [Refactoring for the Future](https://javaday.javanoroeste.com.br/#palestras)
-* **Jul 09 - Quarkus Club (live):** [Java: 30 Years Shaping the Future](https://www.youtube.com/watch?v=Ks5T6TtaCuk)
-* **Jun 24 - UaiJUG (live):** [Java: 30 Years Shaping the Future](https://www.youtube.com/watch?v=_x2lleUWGqo)
-* **Jun 19 - SouJava (live):** [Java: 30 Years of Innovation](https://www.youtube.com/watch?v=FOlMVT1QiD0&t=835s)
-* **May 17 - Quarkus Club at Oracle:** [A Week of Quarkus](https://apex.oracle.com/pls/apex/r/els/evento/agenda?session=108239042315735)
-* **May 08 - Java Meetup SP at Sigma Software:** [Refactoring in Java](https://www.meetup.com/sao-paulo-java-meetup/events/307355028)
-* **May 07 - Quarkus Club (live):** [Myths and Truths about Refactoring feat. Professor Isidro](https://www.youtube.com/watch?v=693MkH5e-vo)
-* **Apr 26 - DevConverge LATAM at FIAP Rio:** [Refactoring for the Future](https://www.youtube.com/live/RbfQwZfob3Q?si=q_94Byyob2XtFKHZ&t=3614)
-* **Apr 23 - JavaDay After One at Oracle:** [What the Leading Voices in the Java Community Think About the Future? (Panel)](https://www.youtube.com/live/5qyrdeRUKhE?si=NQaE5GV1fLHKSikE&t=27641)
-* **Apr 23 - JavaDay After One at Oracle:** [Refactoring for the Future](https://www.youtube.com/live/5qyrdeRUKhE?si=4-umnIqND6C6DC1z&t=5040)
-* **Mar 26 - TDC Summit São Paulo:** [Specialize Open-Source Models with LoRA feat. Yugo Sakamoto](https://thedevconf.com/tdc/2025/summit-sao-paulo/programacao)
-* **Mar 22 - Brasil JUG (live):** [Refactoring in Java](https://www.youtube.com/watch?v=fiorSlFT2KU)
-* **Feb 26 - SouJava Campinas at Bosch:** [Refactoring in Java: Transform your code to become an advanced dev](https://www.youtube.com/live/IZtwEJMvuhE?si=RDM18Ztxsk-Pnw1S&t=75)
-* **Feb 20 - DevConverge LATAM at act digital:** [The Developer's Strategic Role in Modern Banking Innovation (Panel)](https://www.linkedin.com/posts/act-digital_devconverge-latam-activity-7298786821658861568-vEe4/)
-* **Feb 01 - SouJava Brasília at Oracle:** [Refactoring in Java: Transform your code to reach a new level and become an advanced dev](https://www.linkedin.com/posts/soujava-brasilia_luiz-real-nos-iluminando-sobre-refatora%C3%A7%C3%A3o-activity-7291541056767094784-cfX3)
-
-#### 2024 & 2023
-* **Oct 25, 2024 - INFOUNESP - UNESP Informatics Meeting:** [Git Best Practices](https://www.youtube.com/live/XMJd2mhL4aI?si=DDzb17GPWPyh02rA&t=635)
-* **Sep 18, 2024 - TDC São Paulo:** [APIs of the future (Panel)](https://thedevconf.com/tdc/2024/sao-paulo/trilha-api)
-* **Nov 30, 2023 - INFOUNESP - UNESP Informatics Meeting:** [Refactoring: Turning chaos into clarity](https://www.youtube.com/watch?v=whNdTaRa704)
+* **November 28, 2025 - SouJava SP at Anhembi Morumbi:** [Build your career as a developer with visibility in the Java community](https://www.sympla.com.br/evento/evento-amojava-sou-java/3229601)
+* **November 19, 2025 - SouJava SP at Oracle** [About SouJava Community](https://www.youtube.com/live/eRPjJiKtFdo?si=fdgMash7qDWo1C_B&t=3402)
+* **October 18, 2025 - Houston JUG:** [Refactor Today: Build Faster Tomorrow](https://www.eventbrite.com/e/bruno-souza-and-his-amigos-help-you-to-enhance-your-java-career-tickets-1782090844689)
+* **October 16, 2025 - Chicago JUG at Discover:** [Refactor Today: Build Faster Tomorrow](https://www.youtube.com/live/DJf6hbOtlaw?si=IjPayoS_b6CDg3Un&t=5500)
+* **October 13, 2025 - Orlando JUG:** [3 actions you should take to get visible](https://www.youtube.com/live/akbGXiAeV_A?si=dCOhrF1pT5GQUwfp&t=1778)
+* **October 01, 2025 - JUG Joinville (live):** [Java 25 New Features (Panel)](https://meetn.com/Event?ID=b4a7d707e7)
+* **September 11, 2025 - FIAP + Alura Community Meetup:** [Java in the AI Era (Panel)](https://www.sympla.com.br/evento/meetup-de-comunidade-java-na-era-da-ia/3100870)
+* **September 07, 2025 - DebugTech (live):** [Refactoring & Clean Code](https://www.youtube.com/watch?v=lTLpO8uceLc)
+* **August 30, 2025 - JavaDay Noroeste:** [Refactoring for the Future](https://javaday.javanoroeste.com.br/#palestras)
+* **July 09, 2025 - Quarkus Club (live):** [Java: 30 Years Shaping the Future](https://www.youtube.com/watch?v=Ks5T6TtaCuk)
+* **June 24, 2025 - UaiJUG (live):** [Java: 30 Years Shaping the Future](https://www.youtube.com/watch?v=_x2lleUWGqo)
+* **June 19, 2025 - SouJava (live):** [Java: 30 Years of Innovation](https://www.youtube.com/watch?v=FOlMVT1QiD0&t=835s)
+* **May 17, 2025 - Quarkus Club at Oracle:** [A Week of Quarkus](https://apex.oracle.com/pls/apex/r/els/evento/agenda?session=108239042315735)
+* **May 08, 2025 - Java Meetup SP at Sigma Software:** [Refactoring in Java](https://www.meetup.com/sao-paulo-java-meetup/events/307355028)
+* **May 07, 2025 - Quarkus Club (live):** [Myths and Truths about Refactoring feat. Professor Isidro](https://www.youtube.com/watch?v=693MkH5e-vo)
+* **April 26, 2025 - DevConverge LATAM at FIAP Rio:** [Refactoring for the Future](https://www.youtube.com/live/RbfQwZfob3Q?si=q_94Byyob2XtFKHZ&t=3614)
+* **April 23, 2025 - JavaDay After One at Oracle:** [What the Leading Voices in the Java Community Think About the Future? (Panel)](https://www.youtube.com/live/5qyrdeRUKhE?si=NQaE5GV1fLHKSikE&t=27641)
+* **April 23, 2025 - JavaDay After One at Oracle:** [Refactoring for the Future](https://www.youtube.com/live/5qyrdeRUKhE?si=4-umnIqND6C6DC1z&t=5040)
+* **March 26, 2025 - TDC Summit São Paulo:** [Specialize Open-Source Models with LoRA feat. Yugo Sakamoto](https://thedevconf.com/tdc/2025/summit-sao-paulo/programacao)
+* **March 22, 2025 - Brasil JUG (live):** [Refactoring in Java](https://www.youtube.com/watch?v=fiorSlFT2KU)
+* **February 26, 2025 - SouJava Campinas at Bosch:** [Refactoring in Java: Transform your code to become an advanced dev](https://www.youtube.com/live/IZtwEJMvuhE?si=RDM18Ztxsk-Pnw1S&t=75)
+* **February 20, 2025 - DevConverge LATAM at act digital:** [The Developer's Strategic Role in Modern Banking Innovation (Panel)](https://www.linkedin.com/posts/act-digital_devconverge-latam-activity-7298786821658861568-vEe4/)
+* **February 01, 2025 - SouJava Brasília at Oracle:** [Refactoring in Java: Transform your code to reach a new level and become an advanced dev](https://www.linkedin.com/posts/soujava-brasilia_luiz-real-nos-iluminando-sobre-refatora%C3%A7%C3%A3o-activity-7291541056767094784-cfX3)
+* **October 25, 2024 - INFOUNESP - UNESP Informatics Meeting:** [Git Best Practices](https://www.youtube.com/live/XMJd2mhL4aI?si=DDzb17GPWPyh02rA&t=635)
+* **September 18, 2024 - TDC São Paulo:** [APIs of the future (Panel)](https://thedevconf.com/tdc/2024/sao-paulo/trilha-api)
+* **November 30, 2023 - INFOUNESP - UNESP Informatics Meeting:** [Refactoring: Turning chaos into clarity](https://www.youtube.com/watch?v=whNdTaRa704)
 
 ### Event Organization & Coordination
 
@@ -112,7 +109,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 
 ### Content Creation: Podcast & Video
 
-#### Host: Out of the Box Developer Podcast (2025)
+#### Host: Out of the Box Developer Podcast
 * **September 23, 2025:** [Concurrency & Performance w/ Dr. Heinz Kabutz](https://www.youtube.com/watch?v=BkjKfCBovgE)
 * **September 09, 2025:** [Building User Communities w/ Mary Grygleski](https://www.youtube.com/watch?v=yhbH40PGvGU)
 * **August 26, 2025:** [Becoming a Technical Reference w/ Pedro Carrijo](https://www.youtube.com/watch?v=DPZfyI559G4)
@@ -130,8 +127,6 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **February 11, 2025:** [Struggling with Messy Code?](https://www.youtube.com/watch?v=IlsMoMVerQY)
 * **January 28, 2025:** [Level Up Your Career w/ Elder Moraes](https://www.youtube.com/watch?v=BzhAeflVt0A&t=10s)
 * **January 14, 2025:** [From TODO to DONE](https://www.youtube.com/watch?v=zwGYLFxgAlU)
-
-#### Host: Out of the Box Developer Podcast (2024)
 * **December 10, 2024:** [Was 2024 YOUR Out of the Box Year?](https://www.youtube.com/watch?v=QPfO-lroefk)
 * **November 26, 2024:** [Forget Coding Challenges, Run a Marathon! w/ João Areias](https://www.youtube.com/watch?v=J2UeVQjtYes)
 * **November 13, 2024:** [What does every developer need to solve Complex Problems? w/ Professor Isidro](https://www.youtube.com/watch?v=5-4F1kBuW_M)
