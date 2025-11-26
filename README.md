@@ -136,6 +136,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **October 01, 2024:** [Biggest challenges when learning programming](https://www.youtube.com/watch?v=r2vfISY47ps)
 
 #### Other Interviews & Hosting
+* **Brasil JUG Channel:** [DevConverge Online Pre-Event](https://www.youtube.com/watch?v=JdtMaxJeUvk)
 * **Luiz Real Channel:** [Asking a Java Champion (w/ Rafael Del Nero)](https://www.youtube.com/watch?v=z2p7SKRIzoM)
 * **Luiz Real Channel:** [Dev Talks: Is Java 21 Certification Worth It? (w/ Ronaldo Tavares)](https://www.youtube.com/watch?v=igyAi0WJ_5M)
 * **Luiz Real Channel:** [Dev Talks: Preparing for Tech Interviews (w/ Leandro Leite)](https://www.youtube.com/watch?v=AQQ0FmaRvYs)
