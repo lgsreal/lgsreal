@@ -110,6 +110,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 ### Content Creation: Media & Articles
 
 #### Host: Out of the Box Developer Podcast
+* **December 02, 2025:** [How to Automate Your Tasks with AI w/ Pedro Cavalero](https://www.youtube.com/watch?v=VsDhIw2zvys)
 * **September 23, 2025:** [Concurrency & Performance w/ Dr. Heinz Kabutz](https://www.youtube.com/watch?v=BkjKfCBovgE)
 * **September 09, 2025:** [Building User Communities w/ Mary Grygleski](https://www.youtube.com/watch?v=yhbH40PGvGU)
 * **August 26, 2025:** [Becoming a Technical Reference w/ Pedro Carrijo](https://www.youtube.com/watch?v=DPZfyI559G4)
