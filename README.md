@@ -46,7 +46,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 
 ### Conference Talks, Panels & Meetup Presentations
 
-* **November 28, 2025 - SouJava SP at Anhembi Morumbi:** [Build your career as a developer with visibility in the Java community](https://www.sympla.com.br/evento/evento-amojava-sou-java/3229601)
+* **November 28, 2025 - SouJava SP at Anhembi Morumbi:** [Build your career as a developer with visibility in the Java community](https://www.youtube.com/live/SEWCcO_jhVA?si=E_9D2Mfp8TBF1bpj&t=1095)
 * **November 19, 2025 - SouJava SP at Oracle** [About SouJava Community](https://www.youtube.com/live/eRPjJiKtFdo?si=fdgMash7qDWo1C_B&t=3402)
 * **October 18, 2025 - Houston JUG:** [Refactor Today: Build Faster Tomorrow](https://www.eventbrite.com/e/bruno-souza-and-his-amigos-help-you-to-enhance-your-java-career-tickets-1782090844689)
 * **October 16, 2025 - Chicago JUG at Discover:** [Refactor Today: Build Faster Tomorrow](https://www.youtube.com/live/DJf6hbOtlaw?si=IjPayoS_b6CDg3Un&t=5500)
@@ -76,7 +76,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 ### Event Organization & Coordination
 
 #### SouJava JUG (Coordinator & Host)
-* **November 28, 2025:** [Meeting at Anhembi Morumbi w/ Professor Isidro and Luiz Real)](https://www.sympla.com.br/evento/evento-amojava-sou-java/3229601)
+* **November 28, 2025:** [Meeting at Anhembi Morumbi w/ Professor Isidro and Luiz Real](https://www.youtube.com/live/SEWCcO_jhVA?si=E_9D2Mfp8TBF1bpj)
 * **November 19, 2025:** [Meeting at Oracle w/ Professor Isidro, Luiz Real, Gabriel Giampietro, and Maria Cecília Bezerra](https://www.youtube.com/watch?v=eRPjJiKtFdo)
 * **November 01, 2025:** [Meeting at Bradesco w/ Bruno Souza, Maximiliam Arruda, and Yugo Sakamoto](https://www.youtube.com/watch?v=xK-AUqkUPuM)
 * **October 15, 2025:** [Meeting at Oracle w/ Pedro Carrijo and Gleice Ellen](https://www.youtube.com/watch?v=x6umCwAmDhM)
@@ -107,7 +107,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **2025:** [TDC Experience Porto Alegre](https://promo.thedevconf.com/tdc-experience-porto-alegre-2025) , [TDC São Paulo](https://thedevconf.com/tdc/2025/sao-paulo/hub-mentorias) , [TDC Summit São Paulo](https://thedevconf.com/tdc/2025/summit-sao-paulo/hub-mentorias)
 * **2024:** [TDC Summit Porto Alegre](https://thedevconf.com/tdc/2024/summit-porto-alegre/hub-mentorias) , [TDC São Paulo](https://thedevconf.com/tdc/2024/sao-paulo/hub-mentorias)
 
-### Content Creation: Podcast & Video
+### Content Creation: Media & Articles
 
 #### Host: Out of the Box Developer Podcast
 * **September 23, 2025:** [Concurrency & Performance w/ Dr. Heinz Kabutz](https://www.youtube.com/watch?v=BkjKfCBovgE)
@@ -149,6 +149,11 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **Out of the Box Developer Channel:** [Best of TheDevConf SP 2024](https://www.youtube.com/watch?v=6P4wT16yH1Q)
 * **Lucas Levandoski's Podcast:** [Balancing Professor Life & Java Dev](https://www.youtube.com/watch?v=LEexN9u3rts)
 
+#### Articles & Blog Posts
+* **June 12, 2025:** [The 5-Minute Habit That Can Redefine Your Career](https://luizreal.com/the-5-minute-habit-that-can-redefine-your-career/)
+* **May 24, 2025:** [3 Things Holding You Back From Becoming a Senior Java Developer](https://luizreal.com/3-things-holding-you-back-from-becoming-a-senior-java-developer/)
+* **February 13, 2025:** [Elevate your coding by applying the Golden Circle of AI-Driven Development](https://luizreal.com/elevate-your-coding-by-applying-the-golden-circle-of-ai-driven-development/)
+
 ### Mentorship & Open Source
 
 #### Mentorship Sessions
@@ -158,6 +163,12 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **TDC 2024 (Porto Alegre):** [How to Grow Technically by Helping Others and Building Relationships](https://thedevconf.com/tdc/2024/summit-porto-alegre/hub-mentorias)
 * **FIAP:** Mentoring students every semester for final corporate pitches
 * **International Program:** Mentoring professional developers on career advice
+
+#### Hackathon Mentorship & Judging
+* **Jun 28, 2025 - Evaluator:** FIAP MBA Hackathon (Sponsored by **XP**).
+* **Jun 14, 2025 - Mentor:** LeRobot Worldwide Hackathon by **Hugging Face** (**AI Robotics** Focus).
+* **Jun 8, 2025 - Mentor:** Cubo Itaú Hackathon (Representing **Oracle**).
+* **Jun 7, 2025 - Mentor:** Zero to Hero Hackathon (Link School of Business).
 
 #### Open Source Contributions
 * **Brazilian Tech Event Agenda:** [GitHub Contribution](https://github.com/agenda-tech-brasil/agenda-tech-brasil/commits?author=lgsreal)
