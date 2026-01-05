@@ -46,9 +46,9 @@ Below is a comprehensive list of my contributions to the tech community, includi
 
 ### Conference Talks, Panels & Meetup Presentations
 
-* **January 04, 2026 - DebugTech (live)** [Building Your Career with Visibility in the Java Community](https://www.youtube.com/live/XD89YKrTkrw)
+* **January 04, 2026 - DebugTech (live):** [Building Your Career with Visibility in the Java Community](https://www.youtube.com/live/XD89YKrTkrw)
 * **November 28, 2025 - SouJava SP at Anhembi Morumbi:** [Build your career as a developer with visibility in the Java community](https://www.youtube.com/live/SEWCcO_jhVA?si=E_9D2Mfp8TBF1bpj&t=1095)
-* **November 19, 2025 - SouJava SP at Oracle** [About SouJava Community](https://www.youtube.com/live/eRPjJiKtFdo?si=fdgMash7qDWo1C_B&t=3402)
+* **November 19, 2025 - SouJava SP at Oracle:** [About SouJava Community](https://www.youtube.com/live/eRPjJiKtFdo?si=fdgMash7qDWo1C_B&t=3402)
 * **October 18, 2025 - Houston JUG:** [Refactor Today: Build Faster Tomorrow](https://www.eventbrite.com/e/bruno-souza-and-his-amigos-help-you-to-enhance-your-java-career-tickets-1782090844689)
 * **October 16, 2025 - Chicago JUG at Discover:** [Refactor Today: Build Faster Tomorrow](https://www.youtube.com/live/DJf6hbOtlaw?si=IjPayoS_b6CDg3Un&t=5500)
 * **October 13, 2025 - Orlando JUG:** [3 actions you should take to get visible](https://www.youtube.com/live/akbGXiAeV_A?si=dCOhrF1pT5GQUwfp&t=1778)
