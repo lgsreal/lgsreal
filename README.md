@@ -46,6 +46,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 
 ### Conference Talks, Panels & Meetup Presentations
 
+* **January 04, 2026 - DebugTech (live)** [Building Your Career with Visibility in the Java Community](https://www.youtube.com/live/XD89YKrTkrw)
 * **November 28, 2025 - SouJava SP at Anhembi Morumbi:** [Build your career as a developer with visibility in the Java community](https://www.youtube.com/live/SEWCcO_jhVA?si=E_9D2Mfp8TBF1bpj&t=1095)
 * **November 19, 2025 - SouJava SP at Oracle** [About SouJava Community](https://www.youtube.com/live/eRPjJiKtFdo?si=fdgMash7qDWo1C_B&t=3402)
 * **October 18, 2025 - Houston JUG:** [Refactor Today: Build Faster Tomorrow](https://www.eventbrite.com/e/bruno-souza-and-his-amigos-help-you-to-enhance-your-java-career-tickets-1782090844689)
@@ -96,7 +97,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **September 24, 2024:** [Meeting at Oracle w/ Temporal.io](https://www.youtube.com/watch?v=liBuz-VpCWY)
 
 #### DevConverge LATAM/EUROPE (Organizer/Host)
-* **December, 2025:** [Sprint São Paulo at Link School of Business (Host & Co-Organizer)](https://www.sympla.com.br/evento/devconverge-latam-sprint-sao-paulo-na-link/3200602)
+* **December, 2025:** [Sprint São Paulo at Anhembi Morumbi University (Host & Co-Organizer)](https://www.sympla.com.br/evento/devconverge-latam-sprint-sao-paulo-na-anhembi-morumbi/3200602)
 * **October, 2025:** [Sprint Madrid at Oracle (Co-Organizer & Online Support)](https://www.devconvergeeurope.com/)
 * **August, 2025:** [Sprint São Paulo at Oracle (Host & Co-Organizer)](https://www.youtube.com/watch?v=JHJ8wNOMHq0)
 * **April, 2025:** [Sprint Rio at FIAP (Host & Speaker)](https://www.youtube.com/watch?v=RbfQwZfob3Q)
@@ -137,6 +138,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **October 01, 2024:** [Biggest challenges when learning programming](https://www.youtube.com/watch?v=r2vfISY47ps)
 
 #### Other Interviews & Hosting
+* **SouJava Channel:** [SouJava End-of-Year Live (2025)](https://www.youtube.com/live/cmk7MpJ2zUc)
 * **Brasil JUG Channel:** [DevConverge Online Pre-Event](https://www.youtube.com/watch?v=JdtMaxJeUvk)
 * **Luiz Real Channel:** [Asking a Java Champion (w/ Rafael Del Nero)](https://www.youtube.com/watch?v=z2p7SKRIzoM)
 * **Luiz Real Channel:** [Dev Talks: Is Java 21 Certification Worth It? (w/ Ronaldo Tavares)](https://www.youtube.com/watch?v=igyAi0WJ_5M)
