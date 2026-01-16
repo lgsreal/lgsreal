@@ -77,6 +77,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 ### Event Organization & Coordination
 
 #### SouJava JUG (Coordinator & Host)
+* **January 14, 2026:** [Meeting at Oracle w/ Pedro Carrijo and Bruno Souza](https://www.youtube.com/watch?v=x_qZmVOwgzE)
 * **November 28, 2025:** [Meeting at Anhembi Morumbi w/ Professor Isidro and Luiz Real](https://www.youtube.com/live/SEWCcO_jhVA?si=E_9D2Mfp8TBF1bpj)
 * **November 19, 2025:** [Meeting at Oracle w/ Professor Isidro, Luiz Real, Gabriel Giampietro, and Maria Cecília Bezerra](https://www.youtube.com/watch?v=eRPjJiKtFdo)
 * **November 01, 2025:** [Meeting at Bradesco w/ Bruno Souza, Maximiliam Arruda, and Yugo Sakamoto](https://www.youtube.com/watch?v=xK-AUqkUPuM)
