@@ -35,8 +35,9 @@ I don't just attend events; I help build them. I am deeply involved in fostering
 
 * **SouJava JUG:** Coordinator (Since Sep 2024). I organize monthly meetups partnering with companies like Oracle and Bradesco.
 * **DevConverge LATAM/EUROPE:** Event Manager & Co-Organizer. Helped organize editions in São Paulo, Rio de Janeiro, and Madrid.
-* **The Developer’s Conference (TDC):** Coordinator & Mentorship Hub Lead  for editions in São Paulo and Porto Alegre.
+* **The Developer’s Conference (TDC):** Coordinator & Mentorship Hub Lead for editions in São Paulo and Porto Alegre.
 * **DukeOne Conference:** Founding Advisory Board Member.
+* **The AI Collective:** Volunteer at the São Paulo Chapter (Since Dec 2025).
 
 ---
 
@@ -45,7 +46,9 @@ I don't just attend events; I help build them. I am deeply involved in fostering
 Below is a comprehensive list of my contributions to the tech community, including talks, event organization, podcasts, and mentorship.
 
 ### Conference Talks, Panels & Meetup Presentations
-
+* **January 31, 2026 - SouJava (live):** [Driving impact through community recognition w/ Loiane Groner, Maximillian Arruda, and Thiago Gonzaga](https://www.youtube.com/live/ko6VP_gcTj4?si=zuTNsqJBDb-FwyWB)
+* **January 24, 2026 - Brasil JUG (live):** [Building Your Career with Visibility in the Java Community](https://www.youtube.com/live/q37EHFrLNd0?si=dvDbDv2Kt0U4AtuA&t=24)
+* **January 21, 2026 - SouJava Campinas at John Deere:** [Building Your Career with Visibility in the Java Community](https://www.youtube.com/live/Apunv8ydiZ8?si=nQCkEpY1iwEvT1HP&t=2173)
 * **January 04, 2026 - DebugTech (live):** [Building Your Career with Visibility in the Java Community](https://www.youtube.com/live/XD89YKrTkrw)
 * **November 28, 2025 - SouJava SP at Anhembi Morumbi:** [Build your career as a developer with visibility in the Java community](https://www.youtube.com/live/SEWCcO_jhVA?si=E_9D2Mfp8TBF1bpj&t=1095)
 * **November 19, 2025 - SouJava SP at Oracle:** [About SouJava Community](https://www.youtube.com/live/eRPjJiKtFdo?si=fdgMash7qDWo1C_B&t=3402)
@@ -109,9 +112,15 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **2025:** [TDC Experience Porto Alegre](https://promo.thedevconf.com/tdc-experience-porto-alegre-2025) , [TDC São Paulo](https://thedevconf.com/tdc/2025/sao-paulo/hub-mentorias) , [TDC Summit São Paulo](https://thedevconf.com/tdc/2025/summit-sao-paulo/hub-mentorias)
 * **2024:** [TDC Summit Porto Alegre](https://thedevconf.com/tdc/2024/summit-porto-alegre/hub-mentorias) , [TDC São Paulo](https://thedevconf.com/tdc/2024/sao-paulo/hub-mentorias)
 
+#### The AI Collective - São Paulo Chapter (Volunteer)
+* **January 29, 2026:** [Cognition Meetup with AI Collective São Paulo](https://luma.com/aic-cognition-sp?tk=tmVYYs)
+* **December 15, 2025:** [AI Collective São Paulo - December Meetup w/ Genspark](https://luma.com/aic-sa-12-15?tk=oaGxDf)
+
 ### Content Creation: Media & Articles
 
 #### Host: Out of the Box Developer Podcast
+* **February 03, 2026:** [Event Storming: Why Are We Doing This w/ Alice David dos Santos](https://www.youtube.com/watch?v=vARfOiodtSc)
+* **January 20, 2026:** [Enable Observability with OpenTelemetry w/ Thiago Gonzaga](https://www.youtube.com/watch?v=Ho9u6S_mVpY)
 * **December 02, 2025:** [How to Automate Your Tasks with AI w/ Pedro Cavalero](https://www.youtube.com/watch?v=VsDhIw2zvys)
 * **September 23, 2025:** [Concurrency & Performance w/ Dr. Heinz Kabutz](https://www.youtube.com/watch?v=BkjKfCBovgE)
 * **September 09, 2025:** [Building User Communities w/ Mary Grygleski](https://www.youtube.com/watch?v=yhbH40PGvGU)
@@ -139,9 +148,11 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **October 01, 2024:** [Biggest challenges when learning programming](https://www.youtube.com/watch?v=r2vfISY47ps)
 
 #### Other Interviews & Hosting
+* **Luiz Real Channel:** [Asking a Java Champion - What´s like to be a developer advocate? (w/ Elder Moraes)](https://youtu.be/Nq7vL_SQsDM?si=Il-HtxCi54r32nZG)
+* **Luiz Real Channel:** [Asking a Java Champion - How to Become a Reference in Java (w/ Loiane Groner)](https://youtu.be/WPdgody7xKU?si=F4MjeYzoKGKz0oly)
 * **SouJava Channel:** [SouJava End-of-Year Live (2025)](https://www.youtube.com/live/cmk7MpJ2zUc)
 * **Brasil JUG Channel:** [DevConverge Online Pre-Event](https://www.youtube.com/watch?v=JdtMaxJeUvk)
-* **Luiz Real Channel:** [Asking a Java Champion (w/ Rafael Del Nero)](https://www.youtube.com/watch?v=z2p7SKRIzoM)
+* **Luiz Real Channel:** [Asking a Java Champion - How to Prepare for Technical Interviews? (w/ Rafael Del Nero)](https://youtu.be/z2p7SKRIzoM?si=OsMyfdQlD2cEBmBU)
 * **Luiz Real Channel:** [Dev Talks: Is Java 21 Certification Worth It? (w/ Ronaldo Tavares)](https://www.youtube.com/watch?v=igyAi0WJ_5M)
 * **Luiz Real Channel:** [Dev Talks: Preparing for Tech Interviews (w/ Leandro Leite)](https://www.youtube.com/watch?v=AQQ0FmaRvYs)
 * **SouJava Channel:** [Quarkus Club + SouJava: 10 Fatal Mistakes in REST APIs (w/ Rafael Benevides)](https://www.youtube.com/watch?v=mwMwGsHBfF0)
