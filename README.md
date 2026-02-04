@@ -150,6 +150,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 #### Other Interviews & Hosting
 * **Luiz Real Channel:** [Asking a Java Champion - What´s like to be a developer advocate? (w/ Elder Moraes)](https://youtu.be/Nq7vL_SQsDM?si=Il-HtxCi54r32nZG)
 * **Luiz Real Channel:** [Asking a Java Champion - How to Become a Reference in Java (w/ Loiane Groner)](https://youtu.be/WPdgody7xKU?si=F4MjeYzoKGKz0oly)
+* **JChampions Conference Channel:** [Harnessing Event-Driven and Multi-Agent Architectures for Complex Workflows in Generative AI System (w/ Mary Grygleski)](https://www.youtube.com/watch?v=Jd8o883evVg)
 * **SouJava Channel:** [SouJava End-of-Year Live (2025)](https://www.youtube.com/live/cmk7MpJ2zUc)
 * **Brasil JUG Channel:** [DevConverge Online Pre-Event](https://www.youtube.com/watch?v=JdtMaxJeUvk)
 * **Luiz Real Channel:** [Asking a Java Champion - How to Prepare for Technical Interviews? (w/ Rafael Del Nero)](https://youtu.be/z2p7SKRIzoM?si=OsMyfdQlD2cEBmBU)
