@@ -216,9 +216,11 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **Jun 7, 2025 - Mentor:** Zero to Hero Hackathon (Link School of Business).
 
 #### Open Source Contributions
+* **AI-Driven Development:** [GitHub Repository](https://github.com/lgsreal/ai-driven-dev/)
 * **Brazilian Tech Event Agenda:** [GitHub Contribution](https://github.com/agenda-tech-brasil/agenda-tech-brasil/commits?author=lgsreal)
 * **RabbitMQ Demo:** [GitHub Repository](https://github.com/lgsreal/rabbitmq-demo)
 * **Kafka Demo:** [GitHub Repository](https://github.com/lgsreal/kafka-demo)
+* **OpenStreetMap:** [OSM's user profile](https://www.openstreetmap.org/user/lgsreal)
 
 ---
 
