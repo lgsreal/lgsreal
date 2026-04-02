@@ -86,6 +86,21 @@ Below is a comprehensive list of my contributions to the tech community, includi
 
 ### Event Organization & Coordination
 
+#### The Mentorship Hub (Co-Organizer w/ Bruno Souza)
+
+* **March 17-19, 2026:** [JavaOne 2026 (Redwood City, USA)](https://javaone.mentorshiphub.org/)
+* **March 4-6, 2026:** [Devnexus 2026 (Atlanta, USA)](https://devnexus.mentorshiphub.org/)
+* **February 3-4, 2026:** [Jfokus 2026 (Stockholm, Sweden)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRnzs9gtJoH1rmDQM_IL-04GtbgthhvOA9tGJ9imxTUQlf5GjPT7-RpxjqxhDLvyylOsSC7phPHKU8T/pubhtml?gid=995992409&single=true)
+* **December 10-11, 2025:** [TDC Experience (Porto Alegre, Brazil)](https://promo.thedevconf.com/tdc-experience-porto-alegre-2025)
+* **November 6, 2025:** [J-Fall 2025 (Ede, Netherlands)](https://docs.google.com/spreadsheets/d/e/2PACX-1vTEX6LTc3Sp7VLE59nnAqTWfUQNLe6q2MYQAfgqk-SGWTVsMdPO9NRfElYHwvVQfYCqxtl2UsuqrhxL/pubhtml?gid=908481012&single=true)
+* **September 17-19, 2025:** [TDC (São Paulo, Brazil)](https://thedevconf.com/tdc/2025/sao-paulo/hub-mentorias)
+* **June 5, 2025:** [J-Spring 2025 (Utrecht, Netherlands)](https://docs.google.com/spreadsheets/d/e/2PACX-1vT0ZOykCLR4hfnkvJsXuF6fJv6h-blFdMmijzBT1JezgV-JKrUVuimUakUlWcZxZPBBTbpee897lLLb/pubhtml?gid=1555943561&single=true)
+* **May 13-15, 2025:** [JCON 2025 (Cologne, Germany)](https://docs.google.com/spreadsheets/d/e/2PACX-1vQTSrisbsxD1GcuTJTpPoQcl5hl4K20bg1JhzjiKpRVWqMtqa3NUVYUG5LtTXne9nS83E1vXjZ_SB5G/pubhtml?gid=609429038&single=true)
+* **March 26-27, 2025:** [TDC Summit (São Paulo, Brazil)](https://thedevconf.com/tdc/2025/summit-sao-paulo/hub-mentorias)
+* **March 5-6, 2025:** [Devnexus 2025 (Atlanta, USA)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRqZUrneblUGkO0wzKCmPxwqbkIKpBrDO70SZVz2x0_wsbOm58mj0FE73jlPCufnJBvov4jV9dF8UU6/pubhtml?gid=1670255279&single=true)
+* **December 04-05, 2024:** [TDC Summit (Porto Alegre, Brazil)](https://thedevconf.com/tdc/2024/summit-porto-alegre/hub-mentorias)
+* **September 18-20, 2024:** [TDC (São Paulo, Brazil)](https://thedevconf.com/tdc/2024/sao-paulo/hub-mentorias)
+
 #### SouJava JUG (Coordinator & Host)
 
 * **March 18, 2026:** [Meeting at Oracle w/ Isabella Oliveira and Jessé Moraes Braga](https://www.youtube.com/watch?v=zkS-Ncip0tM)
@@ -120,13 +135,6 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **April, 2025:** [Sprint Rio at FIAP (Host & Speaker)](https://www.youtube.com/watch?v=RbfQwZfob3Q)
 * **March, 2025:** [Sprint Alphaville at act digital (Host & Panelist)](https://www.linkedin.com/posts/act-digital_devconverge-latam-activity-7298786821658861568-vEe4/)
 * **September, 2024:** [Sprint São Paulo at FIAP (Host & Co-Organizer)](https://www.youtube.com/watch?v=oCp6IbYlOl0)
-
-#### The Developer's Conference (Mentorship Hub Coordinator)
-* **December, 2025:** [TDC Experience Porto Alegre](https://promo.thedevconf.com/tdc-experience-porto-alegre-2025)
-* **September, 2025:** [TDC São Paulo](https://thedevconf.com/tdc/2025/sao-paulo/hub-mentorias)
-* **March, 2025:** [TDC Summit São Paulo](https://thedevconf.com/tdc/2025/summit-sao-paulo/hub-mentorias)
-* **December, 2024:** [TDC Summit Porto Alegre](https://thedevconf.com/tdc/2024/summit-porto-alegre/hub-mentorias)
-* **September, 2024:** [TDC São Paulo](https://thedevconf.com/tdc/2024/sao-paulo/hub-mentorias)
 
 #### The AI Collective - São Paulo Chapter (Volunteer & Host)
 * **March 25, 2026:** [Founders in Motion: From Idea to Market Validation (Host)](https://luma.com/aic-sa-3-25)
@@ -214,8 +222,9 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **TDC 2025 (São Paulo):** [How to Transform Knowledge and Relationships into Technical Growth and Professional Visibility](https://thedevconf.com/tdc/2025/sao-paulo/hub-mentorias)
 * **TDC 2025 (Summit SP):** [How to Grow Technically by Helping Others and Building Relationships](https://thedevconf.com/tdc/2025/summit-sao-paulo/hub-mentorias)
 * **TDC 2024 (Porto Alegre):** [How to Grow Technically by Helping Others and Building Relationships](https://thedevconf.com/tdc/2024/summit-porto-alegre/hub-mentorias)
-* **FIAP:** Mentoring students every semester for final corporate pitches
-* **International Program:** Mentoring professional developers on career advice
+* **ACE Connect Mentoring (Discord Community):** We meet every other week, with weekly follow-ups with participants.
+* **FIAP (in-person):** Mentoring students every semester for final corporate pitches
+* **International Program (online):** Mentoring professional developers on career advice
 
 #### Hackathon Mentorship & Judging
 * **Jun 28, 2025 - Evaluator:** FIAP MBA Hackathon (Sponsored by **XP**).
