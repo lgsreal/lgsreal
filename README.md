@@ -87,7 +87,12 @@ Below is a comprehensive list of my contributions to the tech community, includi
 ### Event Organization & Coordination
 
 #### SouJava JUG (Coordinator & Host)
+
+* **March 18, 2026:** [Meeting at Oracle w/ Isabella Oliveira and Jessé Moraes Braga](https://www.youtube.com/watch?v=zkS-Ncip0tM)
+* **February 28, 2026:** [SouJava + Quarkus Club + Engineer Girls: Coders.jar Tech Summit BS 2026](https://www.youtube.com/watch?v=-sO2Fudv230)
+* **February 11, 2026:** [Meeting at Oracle w/ Alaydes Morais, Leandro Marques, and Guilherme Silva](https://www.youtube.com/watch?v=1PTB76psq3U)
 * **January 14, 2026:** [Meeting at Oracle w/ Pedro Carrijo and Bruno Souza](https://www.youtube.com/watch?v=x_qZmVOwgzE)
+* **December 10, 2025:** [Meeting at Oracle w/ Fabio Velloso and Aurélio Araújo](https://www.youtube.com/watch?v=IcWU4MVJ-0s)
 * **November 28, 2025:** [Meeting at Anhembi Morumbi w/ Professor Isidro and Luiz Real](https://www.youtube.com/live/SEWCcO_jhVA?si=E_9D2Mfp8TBF1bpj)
 * **November 19, 2025:** [Meeting at Oracle w/ Professor Isidro, Luiz Real, Gabriel Giampietro, and Maria Cecília Bezerra](https://www.youtube.com/watch?v=eRPjJiKtFdo)
 * **November 01, 2025:** [Meeting at Bradesco w/ Bruno Souza, Maximiliam Arruda, and Yugo Sakamoto](https://www.youtube.com/watch?v=xK-AUqkUPuM)
@@ -123,18 +128,20 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **December, 2024:** [TDC Summit Porto Alegre](https://thedevconf.com/tdc/2024/summit-porto-alegre/hub-mentorias)
 * **September, 2024:** [TDC São Paulo](https://thedevconf.com/tdc/2024/sao-paulo/hub-mentorias)
 
-#### The AI Collective - São Paulo Chapter (Volunteer)
-* **January 29, 2026:** [Cognition Meetup with AI Collective São Paulo](https://luma.com/aic-cognition-sp?tk=tmVYYs)
-* **December 15, 2025:** [AI Collective São Paulo - December Meetup w/ Genspark](https://luma.com/aic-sa-12-15?tk=oaGxDf)
+#### The AI Collective - São Paulo Chapter (Volunteer & Host)
+* **March 25, 2026:** [Founders in Motion: From Idea to Market Validation (Host)](https://luma.com/aic-sa-3-25)
+* **February 26, 2026:** [Happy Hour After Carnival](https://luma.com/aic-sa-2-26?tk=RFXXbD)
+* **January 29, 2026:** [January Meetup w/ Cognition](https://luma.com/aic-cognition-sp?tk=tmVYYs)
+* **December 15, 2025:** [December Meetup w/ Genspark](https://luma.com/aic-sa-12-15?tk=oaGxDf)
 
 #### Other
-* **March 15, 2026 - SF AI & Java Users Community**: [Computer History Museum Tour](https://luma.com/xy6inwgm?tk=99UlY2)
-* **February 28, 2026 - Coders.jar 2026:** [Tech Summit BS 2026](https://www.youtube.com/watch?v=-sO2Fudv230)
-* **February 21, 2026 - ACE Connect Brazil:** [Community, Technology, and Career in the Oracle Ecosystem](https://www.youtube.com/live/9_uEt4kQIKU)
+* **March 15, 2026:** [SF AI & Java Users Community - Computer History Museum Tour](https://luma.com/xy6inwgm?tk=99UlY2)
+* **February 27, 2026:** [Windsurf & Devin Meetup São Paulo at FIAP](https://luma.com/cognition-sp-fiap)
+* **February 21, 2026:** [ACE Connect Brazil: Community, Technology, and Career in the Oracle Ecosystem](https://www.youtube.com/live/9_uEt4kQIKU)
 
 ### Content Creation: Media & Articles
 
-#### Luiz Real Channel - Asking a Java Champion Series
+#### Luiz Real YT Channel - Asking a Java Champion Series
 * **Playlist:** [Asking a Java Champion Series](https://www.youtube.com/playlist?list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
 * **Mary Grygleski:** [What is the Relationship Between AI and the Java Community?](https://www.youtube.com/watch?v=KmeH0pCbA94&list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
 * **Ivar Grimstad:** [How Can you Start Contributing to Open Source?](https://www.youtube.com/watch?v=uc4y6v9zLA4&list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
@@ -153,8 +160,9 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **February 13, 2025:** [Elevate your coding by applying the Golden Circle of AI-Driven Development](https://luizreal.com/blog/elevate-your-coding-by-applying-the-golden-circle-of-ai-driven-development/)
 * **August 26, 2019:** [Evaluating Boundary Conditions and Hierarchical Visualization in CBIR](http://dx.doi.org/10.1109/IV.2019.00021)
 
-#### Host: Out of the Box Developer Podcast
-* **February 03, 2026:** [Event Storming: Why Are We Doing This w/ Alice David dos Santos](https://www.youtube.com/watch?v=vARfOiodtSc)
+#### Out of the Box Developer YT Channel - Podcast Co-Host
+* **March 24, 2026:** [Behind the Scenes of The Developer's Conference w/ Yara Mascarenhas](https://www.youtube.com/watch?v=4bX07BuNznE)
+* **February 03, 2026:** [Event Storming: Why Are We Doing This w/ Alice David dos Santos](https://www.youtube.com/watch?v=fgeNxCKDSXo)
 * **January 20, 2026:** [Enable Observability with OpenTelemetry w/ Thiago Gonzaga](https://www.youtube.com/watch?v=Ho9u6S_mVpY)
 * **December 02, 2025:** [How to Automate Your Tasks with AI w/ Pedro Cavalero](https://www.youtube.com/watch?v=VsDhIw2zvys)
 * **September 23, 2025:** [Concurrency & Performance w/ Dr. Heinz Kabutz](https://www.youtube.com/watch?v=BkjKfCBovgE)
