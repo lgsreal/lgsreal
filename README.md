@@ -2,9 +2,11 @@
 
 ### Oracle ACE | Senior Java Developer | Tech Educator | Community Leader
 
+I help professional Java developers build visibility and meaningful relationships in the tech community so they can grow their careers and become highly valued in the industry.
+
 I am a **Senior Java Developer** at Fundunesp and a **Tech Educator** at FIAP. I combine deep technical expertise with a passion for community building, helping developers bridge the gap between complex engineering concepts and practical application.
 
-As an active **Community Leader**, I organize major tech conferences in Latin America and Europe and serve as a coordinator for one of the world's largest Java User Groups, SouJava.
+As an active **Community Leader**, I organize major tech conferences (mostly in Latin America), co-organize the Mentorship Hub worldwide, and serve as a coordinator for SouJava, one of the world’s largest Java User Groups.
 
 ---
 
@@ -18,20 +20,9 @@ As an active **Community Leader**, I organize major tech conferences in Latin Am
 
 I actively speak at international conferences, JUGs, and meetups, covering Java, Refactoring, AI, and Career Growth.
 
-### International & Keynotes (2025)
-| Date       | Event                  | Talk / Session |
-|:-----------|:-----------------------| :--- |
-| **Oct 18** | Houston JUG (USA)      | [Refactor Today: Build Faster Tomorrow](https://www.eventbrite.com/e/bruno-souza-and-his-amigos-help-you-to-enhance-your-java-career-tickets-1782090844689)  |
-| **Oct 16** | Chicago JUG (USA)      | [Refactor Today: Build Faster Tomorrow](https://www.youtube.com/live/DJf6hbOtlaw?si=IjPayoS_b6CDg3Un&t=5500)  |
-| **Oct 13** | Orlando JUG (USA)      | [3 Actions to Get Visible & Build a Long-Term Career](https://www.youtube.com/live/akbGXiAeV_A?si=dCOhrF1pT5GQUwfp&t=1778)  |
-| **Jun 19** | SouJava (Live)         | [Java: 30 Years of Innovation](https://www.youtube.com/watch?v=FOlMVT1QiD0&t=835s)  |
-| **Mar 26** | TDC Summit (Sao Paulo) | [Specialize Open-Source Models with LoRA (AI)](https://thedevconf.com/tdc/2025/summit-sao-paulo/programacao)  |
-
----
-
 ## Community Leadership & Organization
 
-I don't just attend events; I help build them. I am deeply involved in fostering developer communities across the globe.
+I am deeply involved in fostering developer communities across the globe.
 
 * **SouJava JUG:** Coordinator (Since Sep 2024). I organize monthly meetups partnering with companies like Oracle and Bradesco.
 * **DevConverge LATAM/EUROPE:** Event Manager & Co-Organizer. Helped organize editions in São Paulo, Rio de Janeiro, and Madrid.
@@ -46,6 +37,10 @@ I don't just attend events; I help build them. I am deeply involved in fostering
 Below is a comprehensive list of my contributions to the tech community, including talks, event organization, podcasts, and mentorship.
 
 ### Conference Talks, Panels & Meetup Presentations
+* **March 20, 2026 - JCP Executive Committee Meeting:** [SouJava: Bringing the Java Community Together | SouJava's Education Initiatives](https://jcp.org/en/resources/EC_summaries)
+* **March 18, 2026 - SouJava SP at Oracle:** [Live participation with guests directly from JavaOne, w/ Jim Grisanzio, Ivar Grimstad, Pedro Carrijo, Heather VanCura, Bruno Souza, Barry Burd, Fabio Velloso, and Paul Bakker.](https://www.youtube.com/live/zkS-Ncip0tM?si=d0-sUGVQ1S5zzpod&t=411)
+* **March 12, 2026 - Chicago JUG + The AI Collective:** [Developer Career Growth in the AI Age w/ Bruno Souza](https://www.youtube.com/live/3HAiFk61fGM?si=LS0ap8rWnIslUycw&t=4520)
+* **March 09, 2026 - Garden State JUG:** [Refactoring](https://www.youtube.com/live/atnQyxhcB2Y?si=MXew_M5KQcUsGyBC&t=446)
 * **January 31, 2026 - SouJava (live):** [Driving impact through community recognition w/ Loiane Groner, Maximillian Arruda, and Thiago Gonzaga](https://www.youtube.com/live/ko6VP_gcTj4?si=zuTNsqJBDb-FwyWB)
 * **January 24, 2026 - Brasil JUG (live):** [Building Your Career with Visibility in the Java Community](https://www.youtube.com/live/q37EHFrLNd0?si=dvDbDv2Kt0U4AtuA&t=24)
 * **January 21, 2026 - SouJava Campinas at John Deere:** [Building Your Career with Visibility in the Java Community](https://www.youtube.com/live/Apunv8ydiZ8?si=nQCkEpY1iwEvT1HP&t=2173)
@@ -116,6 +111,9 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **January 29, 2026:** [Cognition Meetup with AI Collective São Paulo](https://luma.com/aic-cognition-sp?tk=tmVYYs)
 * **December 15, 2025:** [AI Collective São Paulo - December Meetup w/ Genspark](https://luma.com/aic-sa-12-15?tk=oaGxDf)
 
+#### Other
+* **March 15, 2026 - SF AI & Java Users Community**: [Computer History Museum Tour](https://luma.com/xy6inwgm?tk=99UlY2)
+
 ### Content Creation: Media & Articles
 
 #### Host: Out of the Box Developer Podcast
@@ -173,6 +171,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 ### Mentorship & Open Source
 
 #### Mentorship Sessions
+* **JavaOne 2026 (Redwood City):** [Grow Your Dev Career Building Visibility in the Java Community](https://reg.rf.oracle.com/flow/oracle/javaone26/catalog/page/catalog/session/1773284681903001DCe8)
 * **TDC 2025 (Porto Alegre):** [Build your career as a developer with visibility in the community](https://promo.thedevconf.com/tdc-experience-porto-alegre-2025)
 * **TDC 2025 (São Paulo):** [How to Transform Knowledge and Relationships into Technical Growth and Professional Visibility](https://thedevconf.com/tdc/2025/sao-paulo/hub-mentorias)
 * **TDC 2025 (Summit SP):** [How to Grow Technically by Helping Others and Building Relationships](https://thedevconf.com/tdc/2025/summit-sao-paulo/hub-mentorias)
