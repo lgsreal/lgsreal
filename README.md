@@ -41,6 +41,10 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **March 18, 2026 - SouJava SP at Oracle:** [Live participation with guests directly from JavaOne, w/ Jim Grisanzio, Ivar Grimstad, Pedro Carrijo, Heather VanCura, Bruno Souza, Barry Burd, Fabio Velloso, and Paul Bakker.](https://www.youtube.com/live/zkS-Ncip0tM?si=d0-sUGVQ1S5zzpod&t=411)
 * **March 12, 2026 - Chicago JUG + The AI Collective:** [Developer Career Growth in the AI Age w/ Bruno Souza](https://www.youtube.com/live/3HAiFk61fGM?si=LS0ap8rWnIslUycw&t=4520)
 * **March 09, 2026 - Garden State JUG:** [Refactoring](https://www.youtube.com/live/atnQyxhcB2Y?si=MXew_M5KQcUsGyBC&t=446)
+* **February 28, 2026 - Coders.jar Tech Summit BS 2026:** [The Role of Artificial Intelligence in the Java Ecosystem and Software Engineering (Panel)](https://www.youtube.com/live/-sO2Fudv230?si=yhMMZMuejzOjPu-k&t=12143)
+* **February 21, 2026 - ACE Connect Brazil:** [Launch of the Oracle ACE Journey Mentoring Program](https://www.youtube.com/live/9_uEt4kQIKU?si=7cbY3CxnLOMdxW3R&t=20975)
+* **February 21, 2026 - ACE Connect Brazil:** [Career & Community w/ Luis Llamas](https://www.youtube.com/live/9_uEt4kQIKU?si=qOCURsMCeAsDdleK&t=1122)
+* **February 12, 2026 - FIAP Pós Tech (live):** Build a successful career as a developer by gaining visibility in the Java community
 * **January 31, 2026 - SouJava (live):** [Driving impact through community recognition w/ Loiane Groner, Maximillian Arruda, and Thiago Gonzaga](https://www.youtube.com/live/ko6VP_gcTj4?si=zuTNsqJBDb-FwyWB)
 * **January 24, 2026 - Brasil JUG (live):** [Building Your Career with Visibility in the Java Community](https://www.youtube.com/live/q37EHFrLNd0?si=dvDbDv2Kt0U4AtuA&t=24)
 * **January 21, 2026 - SouJava Campinas at John Deere:** [Building Your Career with Visibility in the Java Community](https://www.youtube.com/live/Apunv8ydiZ8?si=nQCkEpY1iwEvT1HP&t=2173)
@@ -71,6 +75,14 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **October 25, 2024 - INFOUNESP - UNESP Informatics Meeting:** [Git Best Practices](https://www.youtube.com/live/XMJd2mhL4aI?si=DDzb17GPWPyh02rA&t=635)
 * **September 18, 2024 - TDC São Paulo:** [APIs of the future (Panel)](https://thedevconf.com/tdc/2024/sao-paulo/trilha-api)
 * **November 30, 2023 - INFOUNESP - UNESP Informatics Meeting:** [Refactoring: Turning chaos into clarity](https://www.youtube.com/watch?v=whNdTaRa704)
+* **October 19, 2017 - UNIP 20th Academic Conference on Computer Science:** Complex Data: Content-Based Image Retrieval Using Java
+* **October 17, 2017 - UNISALESIANO Academic Week for Technology Programs:** Complex Data: Content-Based Image Retrieval Using Java
+* **March 23, 2017 - UFSCAR Master’s Thesis Defense in Computer Science:** [Using Multiple Descriptors with Boundary Conditions and Hierarchical Visualization in CBIR](https://repositorio.ufscar.br/handle/20.500.14289/12969)
+* **January 01, 2015 - UNESP-FOA 4th Administrative Congress:** [Spam: What It Is and How to Protect Yourself](https://www.archhealthinvestigation.com.br/ArcHI/article/view/866)
+* **February 24, 2012 - UNESP-FOA 1st Administrative Congress:** Presentation on the IT Services Department
+* **November 19, 2010 - USP 18th International Symposium on Undergraduate Research:** [Web Software Development Using Frameworks: Study Case with JSF](https://uspdigital.usp.br/siicusp/siicPublicacao.jsp?codmnu=7210)
+* **November 13, 2010 - UNITOLEDO 10th Meeting on Teaching, Research, and Outreach:** Using JSF for Web Software Development: Theory and Practice
+* **November 05, 2010 - UNIVEM 11th Undergraduate Research Seminar:** The Use of Frameworks in Web Development: A Case Study with JSF
 
 ### Event Organization & Coordination
 
@@ -95,7 +107,8 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **October 16, 2024:** [Celebrando 25 anos de JCP](https://www.meetup.com/soujava/events/303924532/)
 * **September 24, 2024:** [Meeting at Oracle w/ Temporal.io](https://www.youtube.com/watch?v=liBuz-VpCWY)
 
-#### DevConverge LATAM/EUROPE (Organizer/Host)
+#### DevConverge LATAM/EUROPE (Organizer & Host)
+* **March, 2026:** [Sprint Buenos Aires at Oracle (Co-Organizer)](https://luma.com/tuzi30gx)
 * **December, 2025:** [Sprint São Paulo at Anhembi Morumbi University (Host & Co-Organizer)](https://www.sympla.com.br/evento/devconverge-latam-sprint-sao-paulo-na-anhembi-morumbi/3200602)
 * **October, 2025:** [Sprint Madrid at Oracle (Co-Organizer & Online Support)](https://www.devconvergeeurope.com/)
 * **August, 2025:** [Sprint São Paulo at Oracle (Host & Co-Organizer)](https://www.youtube.com/watch?v=JHJ8wNOMHq0)
@@ -104,8 +117,11 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **September, 2024:** [Sprint São Paulo at FIAP (Host & Co-Organizer)](https://www.youtube.com/watch?v=oCp6IbYlOl0)
 
 #### The Developer's Conference (Mentorship Hub Coordinator)
-* **2025:** [TDC Experience Porto Alegre](https://promo.thedevconf.com/tdc-experience-porto-alegre-2025) , [TDC São Paulo](https://thedevconf.com/tdc/2025/sao-paulo/hub-mentorias) , [TDC Summit São Paulo](https://thedevconf.com/tdc/2025/summit-sao-paulo/hub-mentorias)
-* **2024:** [TDC Summit Porto Alegre](https://thedevconf.com/tdc/2024/summit-porto-alegre/hub-mentorias) , [TDC São Paulo](https://thedevconf.com/tdc/2024/sao-paulo/hub-mentorias)
+* **December, 2025:** [TDC Experience Porto Alegre](https://promo.thedevconf.com/tdc-experience-porto-alegre-2025)
+* **September, 2025:** [TDC São Paulo](https://thedevconf.com/tdc/2025/sao-paulo/hub-mentorias)
+* **March, 2025:** [TDC Summit São Paulo](https://thedevconf.com/tdc/2025/summit-sao-paulo/hub-mentorias)
+* **December, 2024:** [TDC Summit Porto Alegre](https://thedevconf.com/tdc/2024/summit-porto-alegre/hub-mentorias)
+* **September, 2024:** [TDC São Paulo](https://thedevconf.com/tdc/2024/sao-paulo/hub-mentorias)
 
 #### The AI Collective - São Paulo Chapter (Volunteer)
 * **January 29, 2026:** [Cognition Meetup with AI Collective São Paulo](https://luma.com/aic-cognition-sp?tk=tmVYYs)
@@ -113,8 +129,29 @@ Below is a comprehensive list of my contributions to the tech community, includi
 
 #### Other
 * **March 15, 2026 - SF AI & Java Users Community**: [Computer History Museum Tour](https://luma.com/xy6inwgm?tk=99UlY2)
+* **February 28, 2026 - Coders.jar 2026:** [Tech Summit BS 2026](https://www.youtube.com/watch?v=-sO2Fudv230)
+* **February 21, 2026 - ACE Connect Brazil:** [Community, Technology, and Career in the Oracle Ecosystem](https://www.youtube.com/live/9_uEt4kQIKU)
 
 ### Content Creation: Media & Articles
+
+#### Luiz Real Channel - Asking a Java Champion Series
+* **Playlist:** [Asking a Java Champion Series](https://www.youtube.com/playlist?list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
+* **Mary Grygleski:** [What is the Relationship Between AI and the Java Community?](https://www.youtube.com/watch?v=KmeH0pCbA94&list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
+* **Ivar Grimstad:** [How Can you Start Contributing to Open Source?](https://www.youtube.com/watch?v=uc4y6v9zLA4&list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
+* **Barry Burd:** [How Can AI Improve Teaching and Learning?](https://www.youtube.com/watch?v=3KInmBFjsUc&list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
+* **Vinicius Senger:** [What is Digital Reborn and How is it Connected to AI?](https://www.youtube.com/watch?v=WQB8EhtTbYk&list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
+* **Bruno Souza:** [How do you Build a Solid Reputation as a Java Developer?](https://www.youtube.com/watch?v=TI2aMl5BpEE&list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
+* **Elder Moraes:** [What´s like to be a Developer Advocate?](https://www.youtube.com/watch?v=Nq7vL_SQsDM&list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
+* **Loiane Groner:** [How to Become a Reference in Java?](https://www.youtube.com/watch?v=WPdgody7xKU&list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
+* **Rafael Del Nero:** [How to Prepare for Technical Interviews?](https://www.youtube.com/watch?v=z2p7SKRIzoM&list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
+
+#### Articles & Blog Posts
+* **March 31, 2026:** [The AI-First IDE Landscape in 2026](https://lgsreal.substack.com/p/the-ai-first-ide-landscape-in-2026)
+* **February 3, 2026:** [Prompt Engineering for Developers](https://luizreal.com/blog/prompt-engineering-for-developers/)
+* **June 12, 2025:** [The 5-Minute Habit That Can Redefine Your Career](https://luizreal.com/blog/the-5-minute-habit-that-can-redefine-your-career/)
+* **May 24, 2025:** [3 Things Holding You Back From Becoming a Senior Java Developer](https://luizreal.com/blog/3-things-holding-you-back-from-becoming-a-senior-java-developer/)
+* **February 13, 2025:** [Elevate your coding by applying the Golden Circle of AI-Driven Development](https://luizreal.com/blog/elevate-your-coding-by-applying-the-golden-circle-of-ai-driven-development/)
+* **August 26, 2019:** [Evaluating Boundary Conditions and Hierarchical Visualization in CBIR](http://dx.doi.org/10.1109/IV.2019.00021)
 
 #### Host: Out of the Box Developer Podcast
 * **February 03, 2026:** [Event Storming: Why Are We Doing This w/ Alice David dos Santos](https://www.youtube.com/watch?v=vARfOiodtSc)
@@ -146,12 +183,9 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **October 01, 2024:** [Biggest challenges when learning programming](https://www.youtube.com/watch?v=r2vfISY47ps)
 
 #### Other Interviews & Hosting
-* **Luiz Real Channel:** [Asking a Java Champion - What´s like to be a developer advocate? (w/ Elder Moraes)](https://youtu.be/Nq7vL_SQsDM?si=Il-HtxCi54r32nZG)
-* **Luiz Real Channel:** [Asking a Java Champion - How to Become a Reference in Java (w/ Loiane Groner)](https://youtu.be/WPdgody7xKU?si=F4MjeYzoKGKz0oly)
 * **JChampions Conference Channel:** [Harnessing Event-Driven and Multi-Agent Architectures for Complex Workflows in Generative AI System (w/ Mary Grygleski)](https://www.youtube.com/watch?v=Jd8o883evVg)
 * **SouJava Channel:** [SouJava End-of-Year Live (2025)](https://www.youtube.com/live/cmk7MpJ2zUc)
 * **Brasil JUG Channel:** [DevConverge Online Pre-Event](https://www.youtube.com/watch?v=JdtMaxJeUvk)
-* **Luiz Real Channel:** [Asking a Java Champion - How to Prepare for Technical Interviews? (w/ Rafael Del Nero)](https://youtu.be/z2p7SKRIzoM?si=OsMyfdQlD2cEBmBU)
 * **Luiz Real Channel:** [Dev Talks: Is Java 21 Certification Worth It? (w/ Ronaldo Tavares)](https://www.youtube.com/watch?v=igyAi0WJ_5M)
 * **Luiz Real Channel:** [Dev Talks: Preparing for Tech Interviews (w/ Leandro Leite)](https://www.youtube.com/watch?v=AQQ0FmaRvYs)
 * **SouJava Channel:** [Quarkus Club + SouJava: 10 Fatal Mistakes in REST APIs (w/ Rafael Benevides)](https://www.youtube.com/watch?v=mwMwGsHBfF0)
@@ -163,15 +197,11 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **Out of the Box Developer Channel:** [Best of TheDevConf SP 2024](https://www.youtube.com/watch?v=6P4wT16yH1Q)
 * **Lucas Levandoski's Podcast:** [Balancing Professor Life & Java Dev](https://www.youtube.com/watch?v=LEexN9u3rts)
 
-#### Articles & Blog Posts
-* **June 12, 2025:** [The 5-Minute Habit That Can Redefine Your Career](https://luizreal.com/the-5-minute-habit-that-can-redefine-your-career/)
-* **May 24, 2025:** [3 Things Holding You Back From Becoming a Senior Java Developer](https://luizreal.com/3-things-holding-you-back-from-becoming-a-senior-java-developer/)
-* **February 13, 2025:** [Elevate your coding by applying the Golden Circle of AI-Driven Development](https://luizreal.com/elevate-your-coding-by-applying-the-golden-circle-of-ai-driven-development/)
-
 ### Mentorship & Open Source
 
 #### Mentorship Sessions
 * **JavaOne 2026 (Redwood City):** [Grow Your Dev Career Building Visibility in the Java Community](https://reg.rf.oracle.com/flow/oracle/javaone26/catalog/page/catalog/session/1773284681903001DCe8)
+* **Devnexus 2026 (Atlanta):** [Grow Your Dev Career Building Visibility in the Java Community](https://devnexus.mentorshiphub.org/)
 * **TDC 2025 (Porto Alegre):** [Build your career as a developer with visibility in the community](https://promo.thedevconf.com/tdc-experience-porto-alegre-2025)
 * **TDC 2025 (São Paulo):** [How to Transform Knowledge and Relationships into Technical Growth and Professional Visibility](https://thedevconf.com/tdc/2025/sao-paulo/hub-mentorias)
 * **TDC 2025 (Summit SP):** [How to Grow Technically by Helping Others and Building Relationships](https://thedevconf.com/tdc/2025/summit-sao-paulo/hub-mentorias)
