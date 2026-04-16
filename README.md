@@ -37,7 +37,7 @@ I am deeply involved in fostering developer communities across the globe.
 Below is a comprehensive list of my contributions to the tech community, including talks, event organization, podcasts, and mentorship.
 
 ### Conference Talks, Panels & Meetup Presentations
-* **April 15, 2026 - SouJava SP at Oracle:** [101 Lessons from JavaOne: The Most Important Lessons on Java, AI, Careers, and Technology Learned at the World’s Leading Java Event w/ Bruno Souza, Fabio Velloso, Leandro Marques, Karina Souza, and Pedro Carrijo](https://www.youtube.com/live/D1QuqgOJavU?si=4tLFsgsgKVKvALdx&t=4293)
+* **April 15, 2026 - SouJava SP at Oracle:** [101 Lessons from JavaOne: The Most Important Lessons on Java, AI, Careers, and Technology Learned at the World’s Leading Java Event w/ Bruno Souza, Fabio Velloso, Karina Souza, Leandro Marques, and Pedro Carrijo](https://www.youtube.com/live/D1QuqgOJavU?si=4tLFsgsgKVKvALdx&t=4293)
 * **April 15, 2026 - SouJava SP at Oracle:** [SouJava: Bringing the Java Community Together w/ Bruno Souza](https://www.youtube.com/live/D1QuqgOJavU?si=B0YRRvQbAZb6ZHNE&t=2218)
 * **March 20, 2026 - JCP Executive Committee Meeting:** [SouJava: Bringing the Java Community Together | SouJava's Education Initiatives](https://jcp.org/en/resources/EC_summaries)
 * **March 18, 2026 - SouJava SP at Oracle:** [Live participation with guests directly from JavaOne, w/ Jim Grisanzio, Ivar Grimstad, Pedro Carrijo, Heather VanCura, Bruno Souza, Barry Burd, Fabio Velloso, and Paul Bakker.](https://www.youtube.com/live/zkS-Ncip0tM?si=d0-sUGVQ1S5zzpod&t=411)
@@ -89,7 +89,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 ### Event Organization & Coordination
 
 #### The Mentorship Hub (Co-Organizer w/ Bruno Souza)
-
+* **April 20-23, 2026:** [JCON 2026 (Cologne, Germany)](https://jcon.mentorshiphub.org/)
 * **March 17-19, 2026:** [JavaOne 2026 (Redwood City, USA)](https://javaone.mentorshiphub.org/)
 * **March 4-6, 2026:** [Devnexus 2026 (Atlanta, USA)](https://devnexus.mentorshiphub.org/)
 * **February 3-4, 2026:** [Jfokus 2026 (Stockholm, Sweden)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRnzs9gtJoH1rmDQM_IL-04GtbgthhvOA9tGJ9imxTUQlf5GjPT7-RpxjqxhDLvyylOsSC7phPHKU8T/pubhtml?gid=995992409&single=true)
@@ -104,7 +104,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **September 18-20, 2024:** [TDC (São Paulo, Brazil)](https://thedevconf.com/tdc/2024/sao-paulo/hub-mentorias)
 
 #### SouJava JUG (Coordinator & Host)
-
+* **April 15, 2026:** [Meeting at Oracle w/ Leticia Amancio, Bruno Souza, Fabio Velloso, Karina Souza, Leandro Marques, Luiz Real, and Pedro Carrijo](https://www.youtube.com/live/D1QuqgOJavU)
 * **March 18, 2026:** [Meeting at Oracle w/ Isabella Oliveira and Jessé Moraes Braga](https://www.youtube.com/watch?v=zkS-Ncip0tM)
 * **February 28, 2026:** [SouJava + Quarkus Club + Engineer Girls: Coders.jar Tech Summit BS 2026](https://www.youtube.com/watch?v=-sO2Fudv230)
 * **February 11, 2026:** [Meeting at Oracle w/ Alaydes Morais, Leandro Marques, and Guilherme Silva](https://www.youtube.com/watch?v=1PTB76psq3U)
@@ -221,6 +221,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 ### Mentorship & Open Source
 
 #### Mentorship Sessions
+* **TDC 2026 (Summit SP):** [Build your career as a developer with visibility in the community](https://thedevconf.com/tdc/2026/summit-sao-paulo/hub-mentorias)
 * **JavaOne 2026 (Redwood City):** [Grow Your Dev Career Building Visibility in the Java Community](https://reg.rf.oracle.com/flow/oracle/javaone26/catalog/page/catalog/session/1773284681903001DCe8)
 * **Devnexus 2026 (Atlanta):** [Grow Your Dev Career Building Visibility in the Java Community](https://devnexus.mentorshiphub.org/)
 * **TDC 2025 (Porto Alegre):** [Build your career as a developer with visibility in the community](https://promo.thedevconf.com/tdc-experience-porto-alegre-2025)
