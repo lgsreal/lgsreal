@@ -37,6 +37,8 @@ I am deeply involved in fostering developer communities across the globe.
 Below is a comprehensive list of my contributions to the tech community, including talks, event organization, podcasts, and mentorship.
 
 ### Conference Talks, Panels & Meetup Presentations
+* **April 15, 2026 - SouJava SP at Oracle:** [101 Lessons from JavaOne: The Most Important Lessons on Java, AI, Careers, and Technology Learned at the World’s Leading Java Event w/ Bruno Souza, Fabio Velloso, Leandro Marques, Karina Souza, and Pedro Carrijo]([https://www.youtube.com/live/D1QuqgOJavU?si=B0YRRvQbAZb6ZHNE&t=2218](https://www.youtube.com/live/D1QuqgOJavU?si=4tLFsgsgKVKvALdx&t=4293))
+* **April 15, 2026 - SouJava SP at Oracle:** [SouJava: Bringing the Java Community Together w/ Bruno Souza](https://www.youtube.com/live/D1QuqgOJavU?si=B0YRRvQbAZb6ZHNE&t=2218)
 * **March 20, 2026 - JCP Executive Committee Meeting:** [SouJava: Bringing the Java Community Together | SouJava's Education Initiatives](https://jcp.org/en/resources/EC_summaries)
 * **March 18, 2026 - SouJava SP at Oracle:** [Live participation with guests directly from JavaOne, w/ Jim Grisanzio, Ivar Grimstad, Pedro Carrijo, Heather VanCura, Bruno Souza, Barry Burd, Fabio Velloso, and Paul Bakker.](https://www.youtube.com/live/zkS-Ncip0tM?si=d0-sUGVQ1S5zzpod&t=411)
 * **March 12, 2026 - Chicago JUG + The AI Collective:** [Developer Career Growth in the AI Age w/ Bruno Souza](https://www.youtube.com/live/3HAiFk61fGM?si=LS0ap8rWnIslUycw&t=4520)
@@ -169,6 +171,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **August 26, 2019:** [Evaluating Boundary Conditions and Hierarchical Visualization in CBIR](http://dx.doi.org/10.1109/IV.2019.00021)
 
 #### Out of the Box Developer YT Channel - Podcast Co-Host
+* **April 14, 2026:** [Building Software with Spec-Driven Development w/ Yugo Sakamoto](https://www.youtube.com/watch?v=4bX07BuNznE)
 * **March 24, 2026:** [Behind the Scenes of The Developer's Conference w/ Yara Mascarenhas](https://www.youtube.com/watch?v=4bX07BuNznE)
 * **February 03, 2026:** [Event Storming: Why Are We Doing This w/ Alice David dos Santos](https://www.youtube.com/watch?v=fgeNxCKDSXo)
 * **January 20, 2026:** [Enable Observability with OpenTelemetry w/ Thiago Gonzaga](https://www.youtube.com/watch?v=Ho9u6S_mVpY)
@@ -199,6 +202,8 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **October 01, 2024:** [Biggest challenges when learning programming](https://www.youtube.com/watch?v=r2vfISY47ps)
 
 #### Other Interviews & Hosting
+* **SouJava Channel:** [Don't Ask, Don't Poll: Just React to Your Database (w/ Hector Ventura)](https://www.youtube.com/watch?v=iFNitm6ydCA)
+* **SouJava Channel:** [Modernizing Java EE Monoliths: a Roadmap to Scalable Microservices (w/ Ondro Mihályi)](https://www.youtube.com/live/KEPuXZmfD10)
 * **JChampions Conference Channel:** [Harnessing Event-Driven and Multi-Agent Architectures for Complex Workflows in Generative AI System (w/ Mary Grygleski)](https://www.youtube.com/watch?v=Jd8o883evVg)
 * **SouJava Channel:** [SouJava End-of-Year Live (2025)](https://www.youtube.com/live/cmk7MpJ2zUc)
 * **Brasil JUG Channel:** [DevConverge Online Pre-Event](https://www.youtube.com/watch?v=JdtMaxJeUvk)
