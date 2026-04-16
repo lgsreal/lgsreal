@@ -37,7 +37,7 @@ I am deeply involved in fostering developer communities across the globe.
 Below is a comprehensive list of my contributions to the tech community, including talks, event organization, podcasts, and mentorship.
 
 ### Conference Talks, Panels & Meetup Presentations
-* **April 15, 2026 - SouJava SP at Oracle:** [101 Lessons from JavaOne: The Most Important Lessons on Java, AI, Careers, and Technology Learned at the World’s Leading Java Event w/ Bruno Souza, Fabio Velloso, Leandro Marques, Karina Souza, and Pedro Carrijo]([https://www.youtube.com/live/D1QuqgOJavU?si=B0YRRvQbAZb6ZHNE&t=2218](https://www.youtube.com/live/D1QuqgOJavU?si=4tLFsgsgKVKvALdx&t=4293))
+* **April 15, 2026 - SouJava SP at Oracle:** [101 Lessons from JavaOne: The Most Important Lessons on Java, AI, Careers, and Technology Learned at the World’s Leading Java Event w/ Bruno Souza, Fabio Velloso, Leandro Marques, Karina Souza, and Pedro Carrijo](https://www.youtube.com/live/D1QuqgOJavU?si=4tLFsgsgKVKvALdx&t=4293)
 * **April 15, 2026 - SouJava SP at Oracle:** [SouJava: Bringing the Java Community Together w/ Bruno Souza](https://www.youtube.com/live/D1QuqgOJavU?si=B0YRRvQbAZb6ZHNE&t=2218)
 * **March 20, 2026 - JCP Executive Committee Meeting:** [SouJava: Bringing the Java Community Together | SouJava's Education Initiatives](https://jcp.org/en/resources/EC_summaries)
 * **March 18, 2026 - SouJava SP at Oracle:** [Live participation with guests directly from JavaOne, w/ Jim Grisanzio, Ivar Grimstad, Pedro Carrijo, Heather VanCura, Bruno Souza, Barry Burd, Fabio Velloso, and Paul Bakker.](https://www.youtube.com/live/zkS-Ncip0tM?si=d0-sUGVQ1S5zzpod&t=411)
