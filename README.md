@@ -28,7 +28,7 @@ I am deeply involved in fostering developer communities across the globe.
 * **DevConverge LATAM/EUROPE:** Event Manager & Co-Organizer. Helped organize editions in São Paulo, Rio de Janeiro, and Madrid.
 * **The Developer’s Conference (TDC):** Coordinator & Mentorship Hub Lead for editions in São Paulo and Porto Alegre.
 * **DukeOne Conference:** Founding Advisory Board Member.
-* **The AI Collective:** Volunteer at the São Paulo Chapter (Since Dec 2025).
+* **The AI Collective:** Organizer at the São Paulo Chapter (Since Dec 2025).
 
 ---
 
@@ -138,7 +138,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **March, 2025:** [Sprint Alphaville at act digital (Host & Panelist)](https://www.linkedin.com/posts/act-digital_devconverge-latam-activity-7298786821658861568-vEe4/)
 * **September, 2024:** [Sprint São Paulo at FIAP (Host & Co-Organizer)](https://www.youtube.com/watch?v=oCp6IbYlOl0)
 
-#### The AI Collective - São Paulo Chapter (Volunteer & Host)
+#### The AI Collective - São Paulo Chapter (Organizer & Host)
 * **March 25, 2026:** [Founders in Motion: From Idea to Market Validation (Host)](https://luma.com/aic-sa-3-25)
 * **February 26, 2026:** [Happy Hour After Carnival](https://luma.com/aic-sa-2-26?tk=RFXXbD)
 * **January 29, 2026:** [January Meetup w/ Cognition](https://luma.com/aic-cognition-sp?tk=tmVYYs)
@@ -250,13 +250,13 @@ Below is a comprehensive list of my contributions to the tech community, includi
 
 ## Tech Stack
 
-I practice what I preach. My technical foundation is solid in the Java ecosystem and modern infrastructure.
+My favorite projects:
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,linux,debian,postgres,html,js,css,github,gitlab,idea)](https://skillicons.dev)
 
 * **Languages:** Java, HTML/CSS/JS
-* **Frameworks:** Spring Boot, Quarkus
-* **DevOps/Tools:** Docker, Git, Postgres, Kafka
+* **Frameworks:** Spring Boot, Quarkus, JSF
+* **DevOps/Tools:** Docker, Git, PostgreSQL, Kafka, RabbitMQ, Ollama, Datadog, Antigravity
 * **Focus Areas:** Refactoring, Clean Code, REST APIs, AI Integration
 
 ---
