@@ -6,7 +6,7 @@ I help professional Java developers build visibility and meaningful relationship
 
 I am a **Senior Java Developer** at Fundunesp and a **Tech Educator** at FIAP. I combine deep technical expertise with a passion for community building, helping developers bridge the gap between complex engineering concepts and practical application.
 
-As an active **Community Leader**, I organize major tech conferences (mostly in Latin America), co-organize the Mentorship Hub worldwide, and serve as a coordinator for SouJava, one of the world’s largest Java User Groups.
+As an active **Community Leader**, I organize major tech conferences, co-organize the Mentorship Hub worldwide, and serve as a coordinator for SouJava, one of the world’s largest Java User Groups.
 
 ---
 
