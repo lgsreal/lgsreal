@@ -225,6 +225,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **JavaOne 2026 (Redwood City):** [Grow Your Dev Career Building Visibility in the Java Community](https://reg.rf.oracle.com/flow/oracle/javaone26/catalog/page/catalog/session/1773284681903001DCe8)
 * **Devnexus 2026 (Atlanta):** [Grow Your Dev Career Building Visibility in the Java Community](https://devnexus.mentorshiphub.org/)
 * **TDC 2025 (Porto Alegre):** [Build your career as a developer with visibility in the community](https://promo.thedevconf.com/tdc-experience-porto-alegre-2025)
+* **TDC Community:** [Career Transition in IT: Challenges, Opportunities, and Lessons Learned on the Path to Academia](https://www.linkedin.com/feed/update/urn:li:activity:7394763944718000128/)
 * **TDC 2025 (São Paulo):** [How to Transform Knowledge and Relationships into Technical Growth and Professional Visibility](https://thedevconf.com/tdc/2025/sao-paulo/hub-mentorias)
 * **TDC 2025 (Summit SP):** [How to Grow Technically by Helping Others and Building Relationships](https://thedevconf.com/tdc/2025/summit-sao-paulo/hub-mentorias)
 * **TDC 2024 (Porto Alegre):** [How to Grow Technically by Helping Others and Building Relationships](https://thedevconf.com/tdc/2024/summit-porto-alegre/hub-mentorias)
