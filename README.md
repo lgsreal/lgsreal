@@ -37,6 +37,7 @@ I am deeply involved in fostering developer communities across the globe.
 Below is a comprehensive list of my contributions to the tech community, including talks, event organization, podcasts, and mentorship.
 
 ### Conference Talks, Panels & Meetup Presentations
+* **April 24, 2026 - TDC Summit São Paulo:** Workshop: Architecting RAG Systems with Spring AI and Oracle AI Vector Search (Oracle Labs)
 * **April 15, 2026 - SouJava SP at Oracle:** [101 Lessons from JavaOne: The Most Important Lessons on Java, AI, Careers, and Technology Learned at the World’s Leading Java Event w/ Bruno Souza, Fabio Velloso, Karina Souza, Leandro Marques, and Pedro Carrijo](https://www.youtube.com/live/D1QuqgOJavU?si=4tLFsgsgKVKvALdx&t=4293)
 * **April 15, 2026 - SouJava SP at Oracle:** [SouJava: Bringing the Java Community Together w/ Bruno Souza](https://www.youtube.com/live/D1QuqgOJavU?si=B0YRRvQbAZb6ZHNE&t=2218)
 * **March 20, 2026 - JCP Executive Committee Meeting:** [SouJava: Bringing the Java Community Together | SouJava's Education Initiatives](https://jcp.org/en/resources/EC_summaries)
@@ -222,22 +223,25 @@ Below is a comprehensive list of my contributions to the tech community, includi
 
 #### Mentorship Sessions
 * **TDC 2026 (Summit SP):** [Build your career as a developer with visibility in the community](https://thedevconf.com/tdc/2026/summit-sao-paulo/hub-mentorias)
+* **Brasil JUG (Online):** [Group Mentorship Session](https://youtu.be/uVTMNdQtDuw)
+* **Oracle ACE Journey (Online):** [How to Consistently Contribute and Build Visibility Over Time](https://www.linkedin.com/posts/lgsreal_oracleace-mentorship-personalbranding-activity-7452824154342309888-Z2A-)
 * **JavaOne 2026 (Redwood City):** [Grow Your Dev Career Building Visibility in the Java Community](https://reg.rf.oracle.com/flow/oracle/javaone26/catalog/page/catalog/session/1773284681903001DCe8)
 * **Devnexus 2026 (Atlanta):** [Grow Your Dev Career Building Visibility in the Java Community](https://devnexus.mentorshiphub.org/)
 * **TDC 2025 (Porto Alegre):** [Build your career as a developer with visibility in the community](https://promo.thedevconf.com/tdc-experience-porto-alegre-2025)
-* **TDC Community:** [Career Transition in IT: Challenges, Opportunities, and Lessons Learned on the Path to Academia](https://www.linkedin.com/feed/update/urn:li:activity:7394763944718000128/)
+* **TDC Community (Online):** [Career Transition in IT: Challenges, Opportunities, and Lessons Learned on the Path to Academia](https://www.linkedin.com/feed/update/urn:li:activity:7394763944718000128/)
 * **TDC 2025 (São Paulo):** [How to Transform Knowledge and Relationships into Technical Growth and Professional Visibility](https://thedevconf.com/tdc/2025/sao-paulo/hub-mentorias)
 * **TDC 2025 (Summit SP):** [How to Grow Technically by Helping Others and Building Relationships](https://thedevconf.com/tdc/2025/summit-sao-paulo/hub-mentorias)
 * **TDC 2024 (Porto Alegre):** [How to Grow Technically by Helping Others and Building Relationships](https://thedevconf.com/tdc/2024/summit-porto-alegre/hub-mentorias)
 * **ACE Connect Mentoring (Discord Community):** We meet every other week, with weekly follow-ups with participants.
-* **FIAP (in-person):** Mentoring students every semester for final corporate pitches
-* **International Program (online):** Mentoring professional developers on career advice
+* **FIAP (In-Person):** Mentoring students every semester for final corporate pitches
+* **International Program (Online):** Mentoring professional developers on career advice
 
 #### Hackathon Mentorship & Judging
-* **Jun 28, 2025 - Evaluator:** FIAP MBA Hackathon (Sponsored by **XP**).
-* **Jun 14, 2025 - Mentor:** LeRobot Worldwide Hackathon by **Hugging Face** (**AI Robotics** Focus).
-* **Jun 8, 2025 - Mentor:** Cubo Itaú Hackathon (Representing **Oracle**).
-* **Jun 7, 2025 - Mentor:** Zero to Hero Hackathon (Link School of Business).
+* **April 25, 2026 - Mentor and Evaluator:** [Hackathon Cognition São Paulo](https://luma.com/cognition-hack-sp?tk=EIhqgG) (Sponsored by **Oracle** and **Agora**)
+* **June 28, 2025 - Evaluator:** FIAP MBA Hackathon (Sponsored by **XP**)
+* **June 14, 2025 - Mentor:** LeRobot Worldwide Hackathon by **Hugging Face** (**AI Robotics** Focus)
+* **June 08, 2025 - Mentor:** Cubo Itaú Hackathon (Representing **Oracle**)
+* **June 07, 2025 - Mentor:** Zero to Hero Hackathon (Link School of Business)
 
 #### Open Source Contributions
 * **AI-Driven Development:** [GitHub Repository](https://github.com/lgsreal/ai-driven-dev/)
