@@ -37,6 +37,7 @@ I am deeply involved in fostering developer communities across the globe.
 Below is a comprehensive list of my contributions to the tech community, including talks, event organization, podcasts, and mentorship.
 
 ### Conference Talks, Panels & Meetup Presentations
+* **May 7, 2026 - Windsurf & Devin Meetup Rio de Janeiro:** [AI-Assisted Development: Devin and Windsurf Use Cases](https://luma.com/cognition-rj)
 * **April 24, 2026 - TDC Summit São Paulo:** Workshop: Architecting RAG Systems with Spring AI and Oracle AI Vector Search (Oracle Labs)
 * **April 15, 2026 - SouJava SP at Oracle:** [101 Lessons from JavaOne: The Most Important Lessons on Java, AI, Careers, and Technology Learned at the World’s Leading Java Event w/ Bruno Souza, Fabio Velloso, Karina Souza, Leandro Marques, and Pedro Carrijo](https://www.youtube.com/live/D1QuqgOJavU?si=4tLFsgsgKVKvALdx&t=4293)
 * **April 15, 2026 - SouJava SP at Oracle:** [SouJava: Bringing the Java Community Together w/ Bruno Souza](https://www.youtube.com/live/D1QuqgOJavU?si=B0YRRvQbAZb6ZHNE&t=2218)
@@ -90,6 +91,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 ### Event Organization & Coordination
 
 #### The Mentorship Hub (Co-Organizer w/ Bruno Souza)
+* **June 4, 2026:** [J-Spring 2026 (Utrecht, Netherlands)](https://jspring.mentorshiphub.org/)
 * **April 20-23, 2026:** [JCON 2026 (Cologne, Germany)](https://jcon.mentorshiphub.org/)
 * **March 17-19, 2026:** [JavaOne 2026 (Redwood City, USA)](https://javaone.mentorshiphub.org/)
 * **March 4-6, 2026:** [Devnexus 2026 (Atlanta, USA)](https://devnexus.mentorshiphub.org/)
@@ -105,6 +107,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **September 18-20, 2024:** [TDC (São Paulo, Brazil)](https://thedevconf.com/tdc/2024/sao-paulo/hub-mentorias)
 
 #### SouJava JUG (Coordinator & Host)
+* **May 13, 2026:** [Meeting at Oracle w/ Professor Isidro, Beatriz Souza, and Matheus Cruz](https://www.youtube.com/watch?v=DbvKb3dE2_E)
 * **April 15, 2026:** [Meeting at Oracle w/ Leticia Amancio, Bruno Souza, Fabio Velloso, Karina Souza, Leandro Marques, Luiz Real, and Pedro Carrijo](https://www.youtube.com/live/D1QuqgOJavU)
 * **March 18, 2026:** [Meeting at Oracle w/ Isabella Oliveira and Jessé Moraes Braga](https://www.youtube.com/watch?v=zkS-Ncip0tM)
 * **February 28, 2026:** [SouJava + Quarkus Club + Engineer Girls: Coders.jar Tech Summit BS 2026](https://www.youtube.com/watch?v=-sO2Fudv230)
@@ -140,6 +143,8 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **September, 2024:** [Sprint São Paulo at FIAP (Host & Co-Organizer)](https://www.youtube.com/watch?v=oCp6IbYlOl0)
 
 #### The AI Collective - São Paulo Chapter (Organizer & Host)
+* **May 21, 2026:** [Founders' Talks: Dilson from CertiFace](https://luma.com/aic-sa-5-21)
+* **April 30, 2026:** [Happy Hour, where we get together to talk about what the slides don't show](https://luma.com/aic-sa-4-30)
 * **March 25, 2026:** [Founders in Motion: From Idea to Market Validation (Host)](https://luma.com/aic-sa-3-25)
 * **February 26, 2026:** [Happy Hour After Carnival](https://luma.com/aic-sa-2-26?tk=RFXXbD)
 * **January 29, 2026:** [January Meetup w/ Cognition](https://luma.com/aic-cognition-sp?tk=tmVYYs)
@@ -154,6 +159,12 @@ Below is a comprehensive list of my contributions to the tech community, includi
 
 #### Luiz Real YT Channel - Asking a Java Champion Series
 * **Playlist:** [Asking a Java Champion Series](https://www.youtube.com/playlist?list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
+* **Professor Isidro:** [How important are the Fundamentals for the Developer in the Age of AI?](https://www.youtube.com/watch?v=rO8McA_DmQQ&list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
+* **Edson Yanaga:** [How can you prepare to perform on big stages and give amazing presentations?](https://www.youtube.com/watch?v=aMrEJ5DlstY&list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
+* **Simon Martinelli:** [How do you start building Java applications with AI properly?](https://www.youtube.com/watch?v=CxQAo2l0C-U&list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
+* **Jeanne Boyarsky:** [Java Certifications: Career Game-Changer or Waste of Time?](https://www.youtube.com/watch?v=Oj6dPK9hJEs&list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
+* **Michael Redlich:** [How do you manage your path / career as a Developer?](https://www.youtube.com/watch?v=tVgjoK5z1WY&list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
+* **Rodrigo Graciano:** [How can you start participating in the Java community?](https://www.youtube.com/watch?v=kEfozMdrAP0&list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
 * **Mary Grygleski:** [What is the Relationship Between AI and the Java Community?](https://www.youtube.com/watch?v=KmeH0pCbA94&list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
 * **Ivar Grimstad:** [How Can you Start Contributing to Open Source?](https://www.youtube.com/watch?v=uc4y6v9zLA4&list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
 * **Barry Burd:** [How Can AI Improve Teaching and Learning?](https://www.youtube.com/watch?v=3KInmBFjsUc&list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
@@ -162,6 +173,9 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **Elder Moraes:** [What´s like to be a Developer Advocate?](https://www.youtube.com/watch?v=Nq7vL_SQsDM&list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
 * **Loiane Groner:** [How to Become a Reference in Java?](https://www.youtube.com/watch?v=WPdgody7xKU&list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
 * **Rafael Del Nero:** [How to Prepare for Technical Interviews?](https://www.youtube.com/watch?v=z2p7SKRIzoM&list=PL8TI7tPkaieElb5GfP9dv4rIx7s6Jnplt)
+
+#### Luiz Real YT Channel - DevTips Series
+* **Build Relationships:** [https://www.youtube.com/watch?v=jaXZyPp31mk](https://www.youtube.com/watch?v=jaXZyPp31mk)
 
 #### Articles & Blog Posts
 * **March 31, 2026:** [The AI-First IDE Landscape in 2026](https://lgsreal.substack.com/p/the-ai-first-ide-landscape-in-2026)
@@ -222,6 +236,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 ### Mentorship & Open Source
 
 #### Mentorship Sessions
+* **TDC Community:** [Advancing your senior career](https://www.linkedin.com/posts/the-developer-s-conference_hoje-no-almo%C3%A7o-s%C3%AAnior-de-verdade-activity-7458530636690092033-3OjG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAaOwI8BZ4z_bBVPTqMfmt_wzCR83MUQGm8)
 * **TDC 2026 (Summit SP):** [Build your career as a developer with visibility in the community](https://thedevconf.com/tdc/2026/summit-sao-paulo/hub-mentorias)
 * **Brasil JUG (Online):** [Group Mentorship Session](https://youtu.be/uVTMNdQtDuw)
 * **Oracle ACE Journey (Online):** [How to Consistently Contribute and Build Visibility Over Time](https://www.linkedin.com/posts/lgsreal_oracleace-mentorship-personalbranding-activity-7452824154342309888-Z2A-)
@@ -237,6 +252,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **International Program (Online):** Mentoring professional developers on career advice
 
 #### Hackathon Mentorship & Judging
+* **May 12, 2026 - Mentor:** [FIAP Rock Innovation Experience Ideathon](https://www.fiap.com.br/2026/05/14/fiap-conecta-estudantes-startups-e-empresas-no-rock-innovation-experience-2026/) (Sponsored by **Google Cloud** and **X-Team**)
 * **April 25, 2026 - Mentor and Evaluator:** [Hackathon Cognition São Paulo](https://luma.com/cognition-hack-sp?tk=EIhqgG) (Sponsored by **Oracle** and **Agora**)
 * **June 28, 2025 - Evaluator:** FIAP MBA Hackathon (Sponsored by **XP**)
 * **June 14, 2025 - Mentor:** LeRobot Worldwide Hackathon by **Hugging Face** (**AI Robotics** Focus)
