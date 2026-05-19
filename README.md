@@ -41,7 +41,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **April 24, 2026 - TDC Summit São Paulo:** Workshop: Architecting RAG Systems with Spring AI and Oracle AI Vector Search (Oracle Labs)
 * **April 15, 2026 - SouJava SP at Oracle:** [101 Lessons from JavaOne: The Most Important Lessons on Java, AI, Careers, and Technology Learned at the World’s Leading Java Event w/ Bruno Souza, Fabio Velloso, Karina Souza, Leandro Marques, and Pedro Carrijo](https://www.youtube.com/live/D1QuqgOJavU?si=4tLFsgsgKVKvALdx&t=4293)
 * **April 15, 2026 - SouJava SP at Oracle:** [SouJava: Bringing the Java Community Together w/ Bruno Souza](https://www.youtube.com/live/D1QuqgOJavU?si=B0YRRvQbAZb6ZHNE&t=2218)
-* **March 20, 2026 - JCP Executive Committee Meeting:** [SouJava: Bringing the Java Community Together | SouJava's Education Initiatives](https://jcp.org/en/resources/EC_summaries)
+* **March 20, 2026 - JCP Executive Committee Meeting:** [SouJava: Bringing the Java Community Together | SouJava Education Initiatives](https://jcp.org/en/resources/EC_summaries)
 * **March 18, 2026 - SouJava SP at Oracle:** [Live participation with guests directly from JavaOne, w/ Jim Grisanzio, Ivar Grimstad, Pedro Carrijo, Heather VanCura, Bruno Souza, Barry Burd, Fabio Velloso, and Paul Bakker.](https://www.youtube.com/live/zkS-Ncip0tM?si=d0-sUGVQ1S5zzpod&t=411)
 * **March 12, 2026 - Chicago JUG + The AI Collective:** [Developer Career Growth in the AI Age w/ Bruno Souza](https://www.youtube.com/live/3HAiFk61fGM?si=LS0ap8rWnIslUycw&t=4520)
 * **March 09, 2026 - Garden State JUG:** [Refactoring](https://www.youtube.com/live/atnQyxhcB2Y?si=MXew_M5KQcUsGyBC&t=446)
