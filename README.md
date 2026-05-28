@@ -66,7 +66,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **September 11, 2025 - FIAP + Alura Community Meetup:** [Java in the AI Era (Panel)](https://www.sympla.com.br/evento/meetup-de-comunidade-java-na-era-da-ia/3100870)
 * **September 07, 2025 - DebugTech (live):** [Refactoring & Clean Code](https://www.youtube.com/watch?v=lTLpO8uceLc)
 * **August 30, 2025 - JavaDay Noroeste:** [Refactoring for the Future](https://javaday.javanoroeste.com.br/#palestras)
-* **August 06, 2025 - Java Maple Leafs (live): [Building Careers and Communities: A Conversation with Luiz Real](https://silascandiolli.com/2025/09/01/building-careers-and-communities-a-conversation-with-luiz-real/)
+* **August 06, 2025 - Java Maple Leafs (live):** [Building Careers and Communities: A Conversation with Luiz Real](https://silascandiolli.com/2025/09/01/building-careers-and-communities-a-conversation-with-luiz-real/)
 * **July 09, 2025 - Quarkus Club (live):** [Java: 30 Years Shaping the Future](https://www.youtube.com/watch?v=Ks5T6TtaCuk)
 * **June 24, 2025 - UaiJUG (live):** [Java: 30 Years Shaping the Future](https://www.youtube.com/watch?v=_x2lleUWGqo)
 * **June 19, 2025 - SouJava (live):** [Java: 30 Years of Innovation](https://www.youtube.com/watch?v=FOlMVT1QiD0&t=835s)
