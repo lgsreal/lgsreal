@@ -37,7 +37,11 @@ I am deeply involved in fostering developer communities across the globe.
 Below is a comprehensive list of my contributions to the tech community, including talks, event organization, podcasts, and mentorship.
 
 ### Conference Talks, Panels & Meetup Presentations
+* **May 26, 2026 - Out of the Box Developer Podcast:** [Build Our Website with Us Using AI w/ Luiz Real](https://www.youtube.com/watch?v=VglkxcWrRnI)
+* **May 26, 2026 - Duke's Corner Podcast:** [Luiz Real at JavaOne 2026](https://dukescorner.libsyn.com/site/luiz-real-at-javaone-2026)
+* **May 11, 2026 - PullreCast:** [Back to Base: Where the ‘Prompt Dev’ Steps Aside and the Software Engineer Takes the Stage w/ Luiz Real](https://youtu.be/ZpGV2nFJeII?si=AgvAnCEukNSL3ooc)
 * **May 7, 2026 - Windsurf & Devin Meetup Rio de Janeiro:** [AI-Assisted Development: Devin and Windsurf Use Cases](https://luma.com/cognition-rj)
+* **May 4, 2026 - Luis De Llamas Nano Talks:** [From Dev to Reference: Building a Career Through the Community w/ Luiz Real](https://www.youtube.com/watch?v=PVdmdmKb_iw)
 * **April 24, 2026 - TDC Summit São Paulo:** Workshop: Architecting RAG Systems with Spring AI and Oracle AI Vector Search (Oracle Labs)
 * **April 15, 2026 - SouJava SP at Oracle:** [101 Lessons from JavaOne: The Most Important Lessons on Java, AI, Careers, and Technology Learned at the World’s Leading Java Event w/ Bruno Souza, Fabio Velloso, Karina Souza, Leandro Marques, and Pedro Carrijo](https://www.youtube.com/live/D1QuqgOJavU?si=4tLFsgsgKVKvALdx&t=4293)
 * **April 15, 2026 - SouJava SP at Oracle:** [SouJava: Bringing the Java Community Together w/ Bruno Souza](https://www.youtube.com/live/D1QuqgOJavU?si=B0YRRvQbAZb6ZHNE&t=2218)
@@ -62,6 +66,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **September 11, 2025 - FIAP + Alura Community Meetup:** [Java in the AI Era (Panel)](https://www.sympla.com.br/evento/meetup-de-comunidade-java-na-era-da-ia/3100870)
 * **September 07, 2025 - DebugTech (live):** [Refactoring & Clean Code](https://www.youtube.com/watch?v=lTLpO8uceLc)
 * **August 30, 2025 - JavaDay Noroeste:** [Refactoring for the Future](https://javaday.javanoroeste.com.br/#palestras)
+* **August 06, 2025 - Java Maple Leafs (live): [Building Careers and Communities: A Conversation with Luiz Real](https://silascandiolli.com/2025/09/01/building-careers-and-communities-a-conversation-with-luiz-real/)
 * **July 09, 2025 - Quarkus Club (live):** [Java: 30 Years Shaping the Future](https://www.youtube.com/watch?v=Ks5T6TtaCuk)
 * **June 24, 2025 - UaiJUG (live):** [Java: 30 Years Shaping the Future](https://www.youtube.com/watch?v=_x2lleUWGqo)
 * **June 19, 2025 - SouJava (live):** [Java: 30 Years of Innovation](https://www.youtube.com/watch?v=FOlMVT1QiD0&t=835s)
@@ -178,6 +183,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **Build Relationships:** [https://www.youtube.com/watch?v=jaXZyPp31mk](https://www.youtube.com/watch?v=jaXZyPp31mk)
 
 #### Articles & Blog Posts
+* **May 24, 2026:** [The Web API Checklist Still Holds Up: Here's What 2026 Forces You to Add](https://lgsreal.substack.com/p/the-web-api-checklist-still-holds)
 * **March 31, 2026:** [The AI-First IDE Landscape in 2026](https://lgsreal.substack.com/p/the-ai-first-ide-landscape-in-2026)
 * **February 3, 2026:** [Prompt Engineering for Developers](https://luizreal.com/blog/prompt-engineering-for-developers/)
 * **June 12, 2025:** [The 5-Minute Habit That Can Redefine Your Career](https://luizreal.com/blog/the-5-minute-habit-that-can-redefine-your-career/)
@@ -186,6 +192,8 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **August 26, 2019:** [Evaluating Boundary Conditions and Hierarchical Visualization in CBIR](http://dx.doi.org/10.1109/IV.2019.00021)
 
 #### Out of the Box Developer YT Channel - Podcast Co-Host
+* **May 26, 2026:** [Build Our Website with Us Using AI w/ Luiz Real](https://www.youtube.com/watch?v=VglkxcWrRnI)
+* **April 28, 2026:** [Efficient Observability: Reducing Infrastructure Costs with OpenTelemetry Sampling w/ Domenico Schettini](https://www.youtube.com/watch?v=WWkcE2sCXus)
 * **April 14, 2026:** [Building Software with Spec-Driven Development w/ Yugo Sakamoto](https://www.youtube.com/watch?v=4bX07BuNznE)
 * **March 24, 2026:** [Behind the Scenes of The Developer's Conference w/ Yara Mascarenhas](https://www.youtube.com/watch?v=4bX07BuNznE)
 * **February 03, 2026:** [Event Storming: Why Are We Doing This w/ Alice David dos Santos](https://www.youtube.com/watch?v=fgeNxCKDSXo)
