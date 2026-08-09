@@ -1,12 +1,14 @@
 # Hi, I'm Luiz Real!
 
-### Oracle ACE | Senior Java Developer | Tech Educator | Community Leader
+### Forward Deployed Engineer | Oracle ACE | Tech Educator | Community Leader
 
 I help professional Java developers build visibility and meaningful relationships in the tech community so they can grow their careers and become highly valued in the industry.
 
-I am a **Senior Java Developer** at Fundunesp and a **Tech Educator** at FIAP. I combine deep technical expertise with a passion for community building, helping developers bridge the gap between complex engineering concepts and practical application.
+I'm a Forward Deployed Engineer, Oracle ACE, educator, and international speaker with 20+ years of experience in software engineering. My background is deeply rooted in Java, enterprise software, cloud-native development, and modern engineering practices.
 
-As an active **Community Leader**, I organize major tech conferences, co-organize the Mentorship Hub worldwide, and serve as a coordinator for SouJava, one of the world’s largest Java User Groups.
+I'm also passionate about growing the developer community. I lead initiatives at **SouJava** and **AI Collective**, organize conferences and community events including **The Developer's Conference** (TDC) and **DevConverge LATAM**, and mentor and teach developers around the world.
+
+Building software with Java taught me the fundamentals. Now I'm exploring how AI can help us build better software by applying them in new ways
 
 ---
 
