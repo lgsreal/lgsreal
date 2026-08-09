@@ -112,6 +112,9 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **September 18-20, 2024:** [TDC (São Paulo, Brazil)](https://thedevconf.com/tdc/2024/sao-paulo/hub-mentorias)
 
 #### SouJava JUG (Coordinator & Host)
+* **July 31, 2026:** [Meeting with Howdy at Limma Café w/ Darío Macchi and Bruno Souza](https://www.youtube.com/watch?v=EF8qmqcRmCg)
+* **July 15, 2026:** [Meeting at Oracle w/ Angela Soler, Julia Krisnarane, Gabriel Andrade, Marcelo Arbore, and Bruno Sousa](https://www.youtube.com/watch?v=MLGMSVTrymI)
+* **June 17, 2026:** [Meeting at Oracle w/ Renan Beraldi, Renata (Maki), and Vinicius Senger](https://www.youtube.com/watch?v=T4gIXQrnIPU)
 * **May 13, 2026:** [Meeting at Oracle w/ Professor Isidro, Beatriz Souza, and Matheus Cruz](https://www.youtube.com/watch?v=DbvKb3dE2_E)
 * **April 15, 2026:** [Meeting at Oracle w/ Leticia Amancio, Bruno Souza, Fabio Velloso, Karina Souza, Leandro Marques, Luiz Real, and Pedro Carrijo](https://www.youtube.com/live/D1QuqgOJavU)
 * **March 18, 2026:** [Meeting at Oracle w/ Isabella Oliveira and Jessé Moraes Braga](https://www.youtube.com/watch?v=zkS-Ncip0tM)
@@ -139,6 +142,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **September 24, 2024:** [Meeting at Oracle w/ Temporal.io](https://www.youtube.com/watch?v=liBuz-VpCWY)
 
 #### DevConverge LATAM/EUROPE (Organizer & Host)
+* **September, 2026:** [Sprint São Paulo at Nubank (Co-Organizer)](https://luma.com/gmrjgn41)
 * **March, 2026:** [Sprint Buenos Aires at Oracle (Co-Organizer)](https://luma.com/tuzi30gx)
 * **December, 2025:** [Sprint São Paulo at Anhembi Morumbi University (Host & Co-Organizer)](https://www.sympla.com.br/evento/devconverge-latam-sprint-sao-paulo-na-anhembi-morumbi/3200602)
 * **October, 2025:** [Sprint Madrid at Oracle (Co-Organizer & Online Support)](https://www.devconvergeeurope.com/)
@@ -148,6 +152,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **September, 2024:** [Sprint São Paulo at FIAP (Host & Co-Organizer)](https://www.youtube.com/watch?v=oCp6IbYlOl0)
 
 #### The AI Collective - São Paulo Chapter (Organizer & Host)
+* **June 11, 2026:** [Humans in AI Week](https://luma.com/the-ai-collective-so-paulo-humans-in-ai-w-f5a673a7)
 * **May 21, 2026:** [Founders' Talks: Dilson from CertiFace](https://luma.com/aic-sa-5-21)
 * **April 30, 2026:** [Happy Hour, where we get together to talk about what the slides don't show](https://luma.com/aic-sa-4-30)
 * **March 25, 2026:** [Founders in Motion: From Idea to Market Validation (Host)](https://luma.com/aic-sa-3-25)
@@ -192,6 +197,10 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **August 26, 2019:** [Evaluating Boundary Conditions and Hierarchical Visualization in CBIR](http://dx.doi.org/10.1109/IV.2019.00021)
 
 #### Out of the Box Developer YT Channel - Podcast Co-Host
+* **August 4, 2026:** [Building Resilient Multi-Agent Systems w/ Denis Arruda](https://www.youtube.com/watch?v=kWM41c6tu80)
+* **July 7, 2026:** [PRs That Don’t Look Vibe-coded: Spec-Driven and Harness in Practice w/ Fernando Gomes](https://www.youtube.com/watch?v=BqJY4TrOnk0)
+* **June 23, 2026:** [How to Become a High-Impact Contributor (HIC) with Skills w/ Professor Isidro](https://www.youtube.com/watch?v=hXg4M-jp7IY)
+* **June 9, 2026:** [Getting Started with Quarkus From Zero to Native in 60 Minutes w/ Matheus Oliveira](https://www.youtube.com/watch?v=OcRd8C-iW3A)
 * **May 26, 2026:** [Build Our Website with Us Using AI w/ Luiz Real](https://www.youtube.com/watch?v=VglkxcWrRnI)
 * **April 28, 2026:** [Efficient Observability: Reducing Infrastructure Costs with OpenTelemetry Sampling w/ Domenico Schettini](https://www.youtube.com/watch?v=WWkcE2sCXus)
 * **April 14, 2026:** [Building Software with Spec-Driven Development w/ Yugo Sakamoto](https://www.youtube.com/watch?v=4bX07BuNznE)
@@ -225,6 +234,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **October 01, 2024:** [Biggest challenges when learning programming](https://www.youtube.com/watch?v=r2vfISY47ps)
 
 #### Other Interviews & Hosting
+* **SouJava Channel:** [The History of SouJava](https://www.youtube.com/watch?v=pd82qGFKvCI)
 * **SouJava Channel:** [Don't Ask, Don't Poll: Just React to Your Database (w/ Hector Ventura)](https://www.youtube.com/watch?v=iFNitm6ydCA)
 * **SouJava Channel:** [Modernizing Java EE Monoliths: a Roadmap to Scalable Microservices (w/ Ondro Mihályi)](https://www.youtube.com/live/KEPuXZmfD10)
 * **JChampions Conference Channel:** [Harnessing Event-Driven and Multi-Agent Architectures for Complex Workflows in Generative AI System (w/ Mary Grygleski)](https://www.youtube.com/watch?v=Jd8o883evVg)
@@ -244,6 +254,8 @@ Below is a comprehensive list of my contributions to the tech community, includi
 ### Mentorship & Open Source
 
 #### Mentorship Sessions
+* **TDC 2026 (Florianópolis):** [Grow Your Dev Career Building Visibility in the Java Community](https://thedevconf.com/tdc/2026/florianopolis/hub-mentorias?dia=22)
+* **TDC 2026 (Florianópolis):** [Advancing your senior career](https://thedevconf.com/tdc/2026/florianopolis/hub-mentorias?dia=24)
 * **TDC Community:** [Advancing your senior career](https://www.linkedin.com/posts/the-developer-s-conference_hoje-no-almo%C3%A7o-s%C3%AAnior-de-verdade-activity-7458530636690092033-3OjG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAaOwI8BZ4z_bBVPTqMfmt_wzCR83MUQGm8)
 * **TDC 2026 (Summit SP):** [Build your career as a developer with visibility in the community](https://thedevconf.com/tdc/2026/summit-sao-paulo/hub-mentorias)
 * **Brasil JUG (Online):** [Group Mentorship Session](https://youtu.be/uVTMNdQtDuw)
@@ -260,6 +272,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **International Program (Online):** Mentoring professional developers on career advice
 
 #### Hackathon Mentorship & Judging
+* **June 29, 2026 - Mentor:** [Fiap Networking Day Ideathon](https://www.linkedin.com/feed/update/urn:li:activity:7478508215786168320/) (Sponsored by **Unimed** and **Google**)
 * **May 12, 2026 - Mentor:** [FIAP Rock Innovation Experience Ideathon](https://www.fiap.com.br/2026/05/14/fiap-conecta-estudantes-startups-e-empresas-no-rock-innovation-experience-2026/) (Sponsored by **Google Cloud** and **X-Team**)
 * **April 25, 2026 - Mentor and Evaluator:** [Hackathon Cognition São Paulo](https://luma.com/cognition-hack-sp?tk=EIhqgG) (Sponsored by **Oracle** and **Agora**)
 * **June 28, 2025 - Evaluator:** FIAP MBA Hackathon (Sponsored by **XP**)
@@ -284,8 +297,8 @@ My favorite projects:
 
 * **Languages:** Java, HTML/CSS/JS
 * **Frameworks:** Spring Boot, Quarkus, JSF
-* **DevOps/Tools:** Docker, Git, PostgreSQL, Kafka, RabbitMQ, Ollama, Datadog, Antigravity
-* **Focus Areas:** Refactoring, Clean Code, REST APIs, AI Integration
+* **DevOps/Tools:** Docker, Git, PostgreSQL, Kafka, RabbitMQ, Ollama, Datadog, Antigravity, Devin
+* **Focus Areas:** Refactoring, Clean Code, REST APIs, AI Integration, AI-Assisted Development
 
 ---
 
