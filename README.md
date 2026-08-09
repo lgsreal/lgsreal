@@ -37,6 +37,10 @@ I am deeply involved in fostering developer communities across the globe.
 Below is a comprehensive list of my contributions to the tech community, including talks, event organization, podcasts, and mentorship.
 
 ### Conference Talks, Panels & Meetup Presentations
+* **Aug 29, 2026 - JavaDay Noroeste:** [The Power of Focus: Growing Through Open Source and Community](https://www.sympla.com.br/evento/8-java-day-2026-sao-jose-do-rio-preto-sp/3502847)
+* **Aug 22, 2026 - Brasil JUG Recife:** [The Future of Java Development: An AI-First SDLC](https://www.sympla.com.br/evento/brasil-jug-recife/3482317)
+* **Aug 11, 2026 - Quarkus Club Meetup:** [Perspectives on Technology, Careers, Community, and the Future of Software Development in the Age of AI w/ Matheus Cruz, Matheus Oliveira, Maximillian Arruda, Luiz Real, and George Gastaldi (Panel)](https://luma.com/2ldaj3hs)
+* **Jul 22, 2026 - TDC Floripa:** [The Role of Software Design Skills in the Age of AI w/ Luiz Real and Alice David dos Santos (Panel)](https://thedevconf.com/tdc/2026/florianopolis/trilha-design-de-codigo)
 * **May 26, 2026 - Out of the Box Developer Podcast:** [Build Our Website with Us Using AI w/ Luiz Real](https://www.youtube.com/watch?v=VglkxcWrRnI)
 * **May 26, 2026 - Duke's Corner Podcast:** [Luiz Real at JavaOne 2026](https://dukescorner.libsyn.com/site/luiz-real-at-javaone-2026)
 * **May 11, 2026 - PullreCast:** [Back to Base: Where the ‘Prompt Dev’ Steps Aside and the Software Engineer Takes the Stage w/ Luiz Real](https://youtu.be/ZpGV2nFJeII?si=AgvAnCEukNSL3ooc)
