@@ -197,6 +197,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 * **Build Relationships:** [https://www.youtube.com/watch?v=jaXZyPp31mk](https://www.youtube.com/watch?v=jaXZyPp31mk)
 
 #### Articles & Blog Posts
+* **Aug 21, 2026:** [Devin for Developers: A Practical Tour of Web, CLI, and Desktop](https://thecommunity.dev/p/devin-for-developers-a-practical)
 * **May 24, 2026:** [The Web API Checklist Still Holds Up: Here's What 2026 Forces You to Add](https://lgsreal.substack.com/p/the-web-api-checklist-still-holds)
 * **March 31, 2026:** [The AI-First IDE Landscape in 2026](https://lgsreal.substack.com/p/the-ai-first-ide-landscape-in-2026)
 * **February 3, 2026:** [Prompt Engineering for Developers](https://luizreal.com/blog/prompt-engineering-for-developers/)
