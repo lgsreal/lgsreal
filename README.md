@@ -40,7 +40,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 
 ### Conference Talks, Panels & Meetup Presentations
 * **Aug 29, 2026 - JavaDay Noroeste:** [The Power of Focus: Growing Through Open Source and Community](https://www.sympla.com.br/evento/8-java-day-2026-sao-jose-do-rio-preto-sp/3502847)
-* **Aug 22, 2026 - Brasil JUG Recife:** [The Future of Java Development: An AI-First SDLC](https://www.sympla.com.br/evento/brasil-jug-recife/3482317)
+* **Aug 22, 2026 - Brasil JUG Recife:** [The Future of Java Development: An AI-First SDLC](https://www.youtube.com/live/tC3hXAV87tc?si=MGkSB_CZid5tJtYJ&t=7606)
 * **Aug 19, 2026 - Java Amazonas JUG (live):** [Beyond Code: Building a Personal Brand That Creates Opportunities](https://www.youtube.com/watch?v=Ia8AD-cqC9M)
 * **Aug 17, 2026 - AI Collective:** [The Architecture of Intelligence w/ Edd Martins, Rodrigo Andrade, Luiz Real, and William Espindola (Panel)](https://luma.com/1z07mcya)
 * **Aug 11, 2026 - Quarkus Club Meetup at IBM:** [The Future of AI in Open Source w/ Matheus Cruz, Matheus Oliveira, Maximillian Arruda, Luiz Real, and Bruno Souza (Panel)](https://luma.com/2ldaj3hs)
