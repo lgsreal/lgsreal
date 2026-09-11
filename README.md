@@ -8,7 +8,7 @@ I'm a Forward Deployed Engineer, Oracle ACE, Devin Ambassador, educator, and int
 
 I'm also passionate about growing the developer community. I lead initiatives at **SouJava** and **AI Collective**, organize conferences and community events including **The Developer's Conference** (TDC) and **DevConverge LATAM**, and mentor and teach developers around the world.
 
-Building software with Java taught me the fundamentals. Now I'm exploring how AI can help us build better software by applying them in new ways
+Building software with Java taught me the fundamentals. Now I'm exploring how AI can help us build better software by applying those fundamentals in new ways.
 
 ---
 
