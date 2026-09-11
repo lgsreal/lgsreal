@@ -4,7 +4,7 @@
 
 I help professional Java developers build visibility and meaningful relationships in the tech community so they can grow their careers and become highly valued in the industry.
 
-I'm a Forward Deployed Engineer, Oracle ACE, educator, and international speaker with 20+ years of experience in software engineering. My background is deeply rooted in Java, enterprise software, cloud-native development, and modern engineering practices.
+I'm a Forward Deployed Engineer, Oracle ACE, Devin Ambassador, educator, and international speaker with 20+ years of experience in software engineering. My background is deeply rooted in Java, enterprise software, cloud-native development, and modern engineering practices.
 
 I'm also passionate about growing the developer community. I lead initiatives at **SouJava** and **AI Collective**, organize conferences and community events including **The Developer's Conference** (TDC) and **DevConverge LATAM**, and mentor and teach developers around the world.
 
