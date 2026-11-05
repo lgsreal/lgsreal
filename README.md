@@ -39,6 +39,11 @@ I am deeply involved in fostering developer communities across the globe.
 Below is a comprehensive list of my contributions to the tech community, including talks, event organization, podcasts, and mentorship.
 
 ### Conference Talks, Panels & Meetup Presentations
+* **Nov 11, 2026 - AI Paraguay Conference:** [From Idea to Working App: Building with Devin](https://luma.com/aiparaguayconf)
+* **Oct 29, 2026 - IBM TechXchange 2026:** [People-First Software Engineering: 10x Your Team's Delivery with AI Agents](https://reg.tools.ibm.com/flow/ibm/techxchange26/sessioncatalog/page/sessioncatalog/session/1788904890904001K4Qj)
+* **Sep 17, 2026 - Java Noroeste:** [The Power of Focus: Growing Through Open Source and Community](https://www.youtube.com/watch?v=BHDU1PJ7y7Y)
+* **Sep 5, 2026 - DevConverge LATAM at Nubank:** [The Future of Java Development: An AI-First SDLC](https://www.devconvergelatam.com/speakers/luiz-real)
+* **Aug 29, 2026 - JavaDay Noroeste:** [The Future of Java Development: An AI-First SDLC](https://www.sympla.com.br/evento/8-java-day-2026-sao-jose-do-rio-preto-sp/3502847)
 * **Aug 29, 2026 - JavaDay Noroeste:** [The Power of Focus: Growing Through Open Source and Community](https://www.sympla.com.br/evento/8-java-day-2026-sao-jose-do-rio-preto-sp/3502847)
 * **Aug 22, 2026 - Brasil JUG Recife:** [The Future of Java Development: An AI-First SDLC](https://www.youtube.com/live/tC3hXAV87tc?si=MGkSB_CZid5tJtYJ&t=7606)
 * **Aug 19, 2026 - Java Amazonas JUG (live):** [Beyond Code: Building a Personal Brand That Creates Opportunities](https://www.youtube.com/watch?v=Ia8AD-cqC9M)
@@ -264,6 +269,8 @@ Below is a comprehensive list of my contributions to the tech community, includi
 ### Mentorship & Open Source
 
 #### Mentorship Sessions
+
+* **IBM TechXchange 2026(Atlanta):** [AI Mentoring Roundtable: Grow Your Dev Career Building Visibility in the Java Community](https://reg.tools.ibm.com/flow/ibm/techxchange26/sessioncatalog/page/sessioncatalog/session/1788904577268001wdFs)
 * **TDC 2026 (Florianópolis):** [Grow Your Dev Career Building Visibility in the Java Community](https://thedevconf.com/tdc/2026/florianopolis/hub-mentorias?dia=22)
 * **TDC 2026 (Florianópolis):** [Advancing your senior career](https://thedevconf.com/tdc/2026/florianopolis/hub-mentorias?dia=24)
 * **TDC Community:** [Advancing your senior career](https://www.linkedin.com/posts/the-developer-s-conference_hoje-no-almo%C3%A7o-s%C3%AAnior-de-verdade-activity-7458530636690092033-3OjG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAaOwI8BZ4z_bBVPTqMfmt_wzCR83MUQGm8)
