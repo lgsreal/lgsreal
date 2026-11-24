@@ -31,6 +31,7 @@ I am deeply involved in fostering developer communities across the globe.
 * **The Developer’s Conference (TDC):** Coordinator & Mentorship Hub Lead for editions in São Paulo and Porto Alegre.
 * **DukeOne Conference:** Founding Advisory Board Member.
 * **The AI Collective:** Organizer at the São Paulo Chapter (Since Dec 2025).
+* **JCON Europe:** Content Board Member (2027).
 
 ---
 
