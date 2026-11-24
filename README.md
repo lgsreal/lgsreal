@@ -40,6 +40,7 @@ Below is a comprehensive list of my contributions to the tech community, includi
 
 ### Conference Talks, Panels & Meetup Presentations
 
+* **Nov 28, 2026 - JCONF Peru 2026:** [People-First Software Engineering: 10x Your Team's Delivery with AI Agents](https://www.jconfperu.com/agenda/)
 * **Nov 11, 2026 - AI Paraguay Conference:** [From Idea to Working App: Building with Devin](https://luma.com/aiparaguayconf)
 * **Nov 03, 2026 - WoHackers + SouJava (live):** [Beyond Code: Building a Personal Brand That Creates Opportunities](https://www.youtube.com/watch?v=K_TxwYCOfik)
 * **Oct 29, 2026 - IBM TechXchange 2026:** [People-First Software Engineering: 10x Your Team's Delivery with AI Agents](https://reg.tools.ibm.com/flow/ibm/techxchange26/sessioncatalog/page/sessioncatalog/session/1788904890904001K4Qj)
